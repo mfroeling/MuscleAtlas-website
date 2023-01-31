@@ -27,7 +27,7 @@ author: MFroeling
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: "https://www.muscle-atlas.org/"
+url: "https://www.muscle-atlas.org"
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
