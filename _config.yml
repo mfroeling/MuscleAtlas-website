@@ -197,7 +197,7 @@ socialmedia:
 
 sass:
     sass_dir : _sass
-    style    : :compressed
+    style    : compressed
 
 
 #       ___                __      __  _

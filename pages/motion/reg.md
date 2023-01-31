@@ -102,12 +102,12 @@ Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo
 			<option value="200 <">200+ cm</option>
 		</select>
 	</p>
-	<p class="form-row">
+	<p>
 		<label id="contact-form-message-label" for="contact-form-message" class="form-label">Opmerkingen</label>
 		<textarea name="message" id="contact-form-message" aria-labelledby="contact-form-message-label" class="form-textarea" rows="3"></textarea>
 	</p>
-	<div data-netlify-recaptcha="true" class="form-row"></div>
+	<p><div data-netlify-recaptcha="true" class="form-row"></div></p>
 	<p class="form-row form-submit">
-		<button type="submit" class="button">Send Message</button>
+		<button type="submit" class="button">Registreer mij</button>
 	</p>
 </form>
