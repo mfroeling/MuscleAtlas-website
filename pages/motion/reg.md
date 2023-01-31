@@ -26,27 +26,19 @@ Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo
 >
 	<input type="hidden" name="subject" value="Motion Registratie" />
 	<p class="form-row">
-		<label id="contact-form-name-label" for="contact-form-name" class="form-label">
-			Naam *
-		</label>
+		<label id="contact-form-name-label" for="contact-form-name" class="form-label">Naam *</label>
 		<input type="text" name="name" id="contact-form-name" aria-labelledby="contact-form-name-label" class="form-input" required/>
 	</p>
 	<p class="form-row">
-		<label id="contact-form-email-label" for="contact-form-email" class="form-label">
-			Email adres *
-		</label>
+		<label id="contact-form-email-label" for="contact-form-email" class="form-label">Email adres *</label>
 		<input type="email" name="email" id="contact-form-email" aria-labelledby="contact-form-email-label" class="form-input" required/>
 	</p>
 	<p class="form-row">
-		<label id="contact-form-phone-label" for="contact-form-phone" class="form-label">
-			Telefoon nummer
-		</label>
+		<label id="contact-form-phone-label" for="contact-form-phone" class="form-label">Telefoon nummer</label>
 		<input type="phone" name="phone" id="contact-form-phone" aria-labelledby="contact-form-phone-label" class="form-input"/>
 	</p>
 	<p class="form-row">
-		<label id="contact-form-gender-label" for="contact-form-gender" class="form-label">
-			Geslacht *
-		</label>
+		<label id="contact-form-gender-label" for="contact-form-gender" class="form-label">Geslacht *</label>
 		<select name="gender" id="contact-form-gender" aria-labelledby="contact-form-gender-label" class="form-input" required>
 			<option value="">Maak een keuze</option>
 			<option value="Man">Man</option>
@@ -54,26 +46,22 @@ Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo
 		</select>
 	</p>
 	<p class="form-row">
-		<label id="contact-form-age-label" for="contact-form-age" class="form-label">
-			Leeftijdscategorie *
-		</label>
+		<label id="contact-form-age-label" for="contact-form-age" class="form-label">Leeftijdscategorie *</label>
 		<select name="age" id="contact-form-age" aria-labelledby="contact-form-age-label" class="form-input" required>
 			<option value="">Maak een keuze</option>
-			<option value="16-19">16-19</option>
-			<option value="20-24">20-24</option>
-			<option value="25-29">25-29</option>
-			<option value="30-34">30-34</option>
-			<option value="35-39">35-39</option>
-			<option value="40-44">40-44</option>
-			<option value="45-49">45-49</option>
-			<option value="50-54">50-54</option>
-			<option value="55-60">55-60</option>
+			<option value="16-20">16-20</option>
+			<option value="21-25">21-25</option>
+			<option value="26-30">26-30</option>
+			<option value="31-35">31-35</option>
+			<option value="36-40">36-40</option>
+			<option value="41-45">41-45</option>
+			<option value="46-50">46-50</option>
+			<option value="51-55">51-55</option>
+			<option value="56-60">56-60</option>
 		</select>
 	</p>
 	<p class="form-row">
-		<label id="contact-form-weight-label" for="contact-form-weight" class="form-label">
-			Gewicht categorie *
-		</label>
+		<label id="contact-form-weight-label" for="contact-form-weight" class="form-label">Gewicht categorie *</label>
 		<select name="weight" id="contact-form-weight" aria-labelledby="contact-form-weight-label" class="form-input" required>
 			<option value="">Maak een keuze</option>
 			<option value="< 50">50- kg</option>
@@ -95,9 +83,7 @@ Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo
 		</select>
 	</p>
 	<p class="form-row">
-		<label id="contact-form-height-label" for="contact-form-height" class="form-label">
-			Lengte *
-		</label>
+		<label id="contact-form-height-label" for="contact-form-height" class="form-label">Lengte *</label>
 		<select name="height" id="contact-form-height" aria-labelledby="contact-form-height-label" class="form-input" required>
 			<option value="">Maak een keuze</option>
 			<option value="< 150">150- cm</option>
@@ -115,9 +101,7 @@ Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo
 		</select>
 	</p>
 	<p class="form-row">
-		<label id="contact-form-message-label" for="contact-form-message" class="form-label">
-			Opmerkingen
-		</label>
+		<label id="contact-form-message-label" for="contact-form-message" class="form-label">Opmerkingen</label>
 		<textarea name="message" id="contact-form-message" aria-labelledby="contact-form-message-label" class="form-textarea" rows="2"></textarea>
 	</p>
 	<p class="form-row"><div data-netlify-recaptcha="true" class="form-row"></div></p>
