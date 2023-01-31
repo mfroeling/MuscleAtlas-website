@@ -1,0 +1,102 @@
+---
+
+layout: page
+title: "Registratie"
+permalink: /motion/registratie/
+
+subheadline: 'Ja ik doe mee!!'
+
+header: no
+
+tags: motion
+
+---
+
+Leuk dat je intresse hebt om deel te nemen aan de studie! Omdat het voor de studie belangrijk is dat we een goede verdeling hebben van de deelnemers over verschillende leeftijden, gewicht en lengte vragen we je vast deze gegeven in te vullen. Tijdens het onderzoek worden deze exact gemeten. Je telefoon nummer achter laten hoeft niet maar is wel zo makkelijk voor ons. 
+
+Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo snel mogelijk contact met je op. Je hier aanmelden is geheel vrijblijvend. Als we binnen jou leeftijdscategorie al genoeg deelnemers hebben kan het ook zijn dat je helaas niet meer hoeft deel te nemen. 
+
+<form name="simpleContactForm" method="POST" id="simple-contact-form" class="contact-form">
+	<p class="form-row">
+		<label id="contact-form-name-label" for="contact-form-name" class="form-label">Naam *</label>
+		<input type="text" name="name" id="contact-form-name" aria-labelledby="contact-form-name-label" class="form-input" required/>
+	</p>
+	<p class="form-row">
+		<label id="contact-form-email-label" for="contact-form-email" class="form-label">Email adres *</label>
+		<input type="email" name="email" id="contact-form-email" aria-labelledby="contact-form-email-label" class="form-input" required/>
+	</p>
+	<p class="form-row">
+		<label id="contact-form-phone-label" for="contact-form-phone" class="form-label">Telefoon nummer</label>
+		<input type="phone" name="phone" id="contact-form-phone" aria-labelledby="contact-form-phone-label" class="form-input"/>
+	</p>
+	<p>
+		<label for="contact-form-gender">Geslacht *</label>
+		<select name="age" id="contact-form-fender" required>
+			<option value="">Maak een keuze</option>
+			<option value="Man">Man</option>
+			<option value="Vrouw">Vrouw</option>
+		</select>
+	</p>
+	<p>
+		<label for="contact-form-age">Leeftijdscategorie *</label>
+		<select name="age" id="contact-form-age" required>
+			<option value="">Maak een keuze</option>
+			<option value="16-19">16-19</option>
+			<option value="20-24">20-24</option>
+			<option value="25-29">25-29</option>
+			<option value="30-34">30-34</option>
+			<option value="35-39">35-39</option>
+			<option value="40-44">40-44</option>
+			<option value="45-49">45-49</option>
+			<option value="50-54">50-54</option>
+			<option value="55-60">55-60</option>
+		</select>
+	</p>
+	<p>
+		<label for="contact-form-weight">Gewicht categorie *</label>
+		<select name="age" id="contact-form-weight" required>
+			<option value="">Maak een keuze</option>
+			<option value="< 50">50- kg</option>
+			<option value="50-55">50-55 kg</option>
+			<option value="55-60">55-60 kg</option>
+			<option value="60-65">60-65 kg</option>
+			<option value="65-70">65-70 kg</option>
+			<option value="70-75">70-75 kg</option>
+			<option value="75-80">75-80 kg</option>
+			<option value="80-85">80-85 kg</option>
+			<option value="85-90">85-90 kg</option>
+			<option value="90-95">90-95 kg</option>
+			<option value="95-100">95-100 kg</option>
+			<option value="100-105">100-105 kg</option>
+			<option value="105-110">105-110 kg</option>
+			<option value="110-115">110-115 kg</option>
+			<option value="115-120">115-120 kg</option>
+			<option value="120 <">120+ kg</option>
+		</select>
+	</p>
+	<p>
+		<label for="contact-form-hight">Lengte *</label>
+		<select name="age" id="contact-form-hight" required>
+			<option value="">Maak een keuze</option>
+			<option value="< 150">150- cm</option>
+			<option value="150-155">150-155 cm</option>
+			<option value="155-160">155-160 cm</option>
+			<option value="160-165">160-165 cm</option>
+			<option value="165-170">165-170 cm</option>
+			<option value="170-175">170-175 cm</option>
+			<option value="175-180">175-180 cm</option>
+			<option value="180-185">180-185 cm</option>
+			<option value="185-190">185-190 cm</option>
+			<option value="190-195">190-195 cm</option>
+			<option value="195-200">195-200 cm</option>
+			<option value="200 <">200+ cm</option>
+		</select>
+	</p>
+	<p class="form-row">
+		<label id="contact-form-message-label" for="contact-form-message" class="form-label">Opmerkingen</label>
+		<textarea name="message" id="contact-form-message" aria-labelledby="contact-form-message-label" class="form-textarea" rows="3"></textarea>
+	</p>
+	<p class="form-row form-submit">
+		<button type="submit" class="button">Send Message</button>
+	</p>
+</form>

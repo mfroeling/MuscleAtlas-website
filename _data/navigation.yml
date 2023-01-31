@@ -1,0 +1,40 @@
+- title: Home
+  url: /
+  side: left
+
+- title: Projects
+  url: /projects/
+  side: left     
+  dropdown:
+  - title: Muscle Quality Index
+    url: /projects/muscle quality index/
+  - title: QMRITools
+    url: /projects/QMRITools/
+  - title: The motion study
+    url: /projects/motion/
+  - title: Muscle Bids
+    url: /projects/Muscle Bids/
+  
+- title: Data
+  url: /data/
+  side: left
+  
+- title: Motion [NL]
+  url: /motion/
+  side: left
+  dropdown:
+  - title: Beschrijving
+    url: /motion/
+  - title: Het onderzoek
+    url: /motion/onderzoek/
+  - title: Vragen
+    url: /motion/vragen/
+  - title: Registratie
+    url: /motion/registratie/
+
+- title: About
+  url: /about/
+  side: left
+  dropdown:
+  - title: Muscle Atlas
+    url: /about/

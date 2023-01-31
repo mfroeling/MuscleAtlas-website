@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://localhost:4000/</id>
+	<title>QMRITools</title>
+	<updated>2023-01-31T09:56:43+01:00</updated>
+
+	<subtitle>This website describes the functionality of QMRITools, a toolbox for analysis  of quantitative magnetic resonance imaging data. The package contains  processing tools related to quantitative MRI and spectroscopy of muscle, heart and nerves.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>MFroeling</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="4.3.1">Jekyll</generator>
+
+	
+</feed>
