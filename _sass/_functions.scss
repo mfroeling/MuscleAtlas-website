@@ -1,4 +1,5 @@
 @charset "utf-8";
+@use "sass:math";
 // Foundation by ZURB
 // foundation.zurb.com
 // Licensed under MIT Open Source
@@ -44,7 +45,7 @@ $modules: () !default;
 // STRIP UNIT
 // It strips the unit of measure and returns it
 @function strip-unit($num) {
-  @return $num / ($num * 0 + 1);
+  @return math.div($num , ($num * 0 + 1));
 }
 
 // TEXT INPUT TYPES
@@ -90,7 +91,7 @@ $modules: () !default;
 
 // CONVERT TO REM
 @function convert-to-rem($value, $base-value: $rem-base)  {
-  $value: strip-unit($value) / strip-unit($base-value) * 1rem;
+  $value: calc(strip-unit($value) / strip-unit($base-value)) * 1rem;
   @if ($value == 0rem) { $value: 0; } // Turn 0rem into 0
   @return $value;
 }
