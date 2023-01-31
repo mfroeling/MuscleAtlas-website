@@ -24,32 +24,40 @@ Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo
 	data-netlify="true" 
 	action="/motion/bedankt"
 >
-	<p class="hidden" style="visibility: hidden; height: 0;">
-		<label id="contact-form-bot-label">Don't fill this out if you're human: <input name="bot-field" aria-labelledby="contact-form-bot-label" /></label>
-	</p>
+	<input type="hidden" name="subject" value="Motion Registratie" />
 	<p class="form-row">
-		<label id="contact-form-name-label" for="contact-form-name" class="form-label">Naam *</label>
+		<label id="contact-form-name-label" for="contact-form-name" class="form-label">
+			Naam *
+		</label>
 		<input type="text" name="name" id="contact-form-name" aria-labelledby="contact-form-name-label" class="form-input" required/>
 	</p>
 	<p class="form-row">
-		<label id="contact-form-email-label" for="contact-form-email" class="form-label">Email adres *</label>
+		<label id="contact-form-email-label" for="contact-form-email" class="form-label">
+			Email adres *
+		</label>
 		<input type="email" name="email" id="contact-form-email" aria-labelledby="contact-form-email-label" class="form-input" required/>
 	</p>
 	<p class="form-row">
-		<label id="contact-form-phone-label" for="contact-form-phone" class="form-label">Telefoon nummer</label>
+		<label id="contact-form-phone-label" for="contact-form-phone" class="form-label">
+			Telefoon nummer
+		</label>
 		<input type="phone" name="phone" id="contact-form-phone" aria-labelledby="contact-form-phone-label" class="form-input"/>
 	</p>
-	<p>
-		<label for="contact-form-gender">Geslacht *</label>
-		<select name="age" id="contact-form-fender" required>
+	<p class="form-row">
+		<label id="contact-form-gender-label" for="contact-form-gender" class="form-label">
+			Geslacht *
+		</label>
+		<select name="gender" id="contact-form-gender" aria-labelledby="contact-form-gender-label" class="form-input" required>
 			<option value="">Maak een keuze</option>
 			<option value="Man">Man</option>
 			<option value="Vrouw">Vrouw</option>
 		</select>
 	</p>
-	<p>
-		<label for="contact-form-age">Leeftijdscategorie *</label>
-		<select name="age" id="contact-form-age" required>
+	<p class="form-row">
+		<label id="contact-form-age-label" for="contact-form-age" class="form-label">
+			Leeftijdscategorie *
+		</label>
+		<select name="age" id="contact-form-age" aria-labelledby="contact-form-age-label" class="form-input" required>
 			<option value="">Maak een keuze</option>
 			<option value="16-19">16-19</option>
 			<option value="20-24">20-24</option>
@@ -62,9 +70,11 @@ Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo
 			<option value="55-60">55-60</option>
 		</select>
 	</p>
-	<p>
-		<label for="contact-form-weight">Gewicht categorie *</label>
-		<select name="age" id="contact-form-weight" required>
+	<p class="form-row">
+		<label id="contact-form-weight-label" for="contact-form-weight" class="form-label">
+			Gewicht categorie *
+		</label>
+		<select name="weight" id="contact-form-weight" aria-labelledby="contact-form-weight-label" class="form-input" required>
 			<option value="">Maak een keuze</option>
 			<option value="< 50">50- kg</option>
 			<option value="50-55">50-55 kg</option>
@@ -84,9 +94,11 @@ Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo
 			<option value="120 <">120+ kg</option>
 		</select>
 	</p>
-	<p>
-		<label for="contact-form-hight">Lengte *</label>
-		<select name="age" id="contact-form-hight" required>
+	<p class="form-row">
+		<label id="contact-form-height-label" for="contact-form-height" class="form-label">
+			Lengte *
+		</label>
+		<select name="height" id="contact-form-height" aria-labelledby="contact-form-height-label" class="form-input" required>
 			<option value="">Maak een keuze</option>
 			<option value="< 150">150- cm</option>
 			<option value="150-155">150-155 cm</option>
@@ -102,11 +114,16 @@ Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo
 			<option value="200 <">200+ cm</option>
 		</select>
 	</p>
-	<p>
-		<label id="contact-form-message-label" for="contact-form-message" class="form-label">Opmerkingen</label>
-		<textarea name="message" id="contact-form-message" aria-labelledby="contact-form-message-label" class="form-textarea" rows="3"></textarea>
+	<p class="form-row">
+		<label id="contact-form-message-label" for="contact-form-message" class="form-label">
+			Opmerkingen
+		</label>
+		<textarea name="message" id="contact-form-message" aria-labelledby="contact-form-message-label" class="form-textarea" rows="2"></textarea>
 	</p>
-	<p><div data-netlify-recaptcha="true" class="form-row"></div></p>
+	<p class="form-row"><div data-netlify-recaptcha="true" class="form-row"></div></p>
+	<p class="hidden" style="visibility: hidden; height: 0;">
+		<label id="contact-form-bot-label">Don't fill this out if you're human: <input name="" aria-labelledby="contact-form-bot-label" /></label>
+	</p>
 	<p class="form-row form-submit">
 		<button type="submit" class="button">Registreer mij</button>
 	</p>
