@@ -16,7 +16,17 @@ Leuk dat je intresse hebt om deel te nemen aan de studie! Omdat het voor de stud
 
 Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo snel mogelijk contact met je op. Je hier aanmelden is geheel vrijblijvend. Als we binnen jou leeftijdscategorie al genoeg deelnemers hebben kan het ook zijn dat je helaas niet meer hoeft deel te nemen. 
 
-<form name="simpleContactForm" method="POST" id="simple-contact-form" class="contact-form">
+<form 
+	name="RegistrationForm" 
+	method="POST" 
+	id="contact-form" 
+	class="contact-form" 
+	data-netlify="true" 
+	action="/motion/bedankt"
+>
+	<p class="hidden" style="visibility: hidden; height: 0;">
+		<label id="contact-form-bot-label">Don't fill this out if you're human: <input name="bot-field" aria-labelledby="contact-form-bot-label" /></label>
+	</p>
 	<p class="form-row">
 		<label id="contact-form-name-label" for="contact-form-name" class="form-label">Naam *</label>
 		<input type="text" name="name" id="contact-form-name" aria-labelledby="contact-form-name-label" class="form-input" required/>
@@ -96,6 +106,7 @@ Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo
 		<label id="contact-form-message-label" for="contact-form-message" class="form-label">Opmerkingen</label>
 		<textarea name="message" id="contact-form-message" aria-labelledby="contact-form-message-label" class="form-textarea" rows="3"></textarea>
 	</p>
+	<div data-netlify-recaptcha="true" class="form-row"></div>
 	<p class="form-row form-submit">
 		<button type="submit" class="button">Send Message</button>
 	</p>
