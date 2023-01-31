@@ -8,16 +8,15 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'QMRITools'
+title: 'Muslce-Atlas'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Linking quantitative MRI to muscle function'
+slogan: 'Quantitative analysis of skeletal muscle using MRI data.'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: >- # this means to ignore newlines
-             This website describes the functionality of QMRITools, a toolbox for analysis 
-             of quantitative magnetic resonance imaging data. The package contains 
-             processing tools related to quantitative MRI and spectroscopy of muscle, heart and nerves.
+             On this website you will find information about projects related to quantitative muscle analysis aimed to describe muscle architecture, 
+             status, and microstructure. With the projects on the website we aim to link quantitative MRI measurements of muscle to muscle function.
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Website by <a href="https://www.QMRITools.com">Martijn Froeling</a> &#128170; <br> Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> &#128170;</p>'
@@ -210,7 +209,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: G-9NE9434KNY
+google_analytics_tracking_id: G-JK7CF8BLFL
 
 
 
