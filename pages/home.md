@@ -30,7 +30,7 @@ widget3:
 
 <div class="t60" align="center" style="background-color: #D3D3D3; border-radius: 10px;">
 <br>
-<br><br>
+<br>This website is still under development, more content will come soon.<br>
 <br><br>
 </div>
 <br><br>
