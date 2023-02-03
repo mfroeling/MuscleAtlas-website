@@ -1,20 +1,19 @@
 ---
 
 layout: page
-title: "Registratie"
 permalink: /motion/registratie/
-
-subheadline: 'Ja ik doe mee!!'
-
 header: no
+
+title: "Registratie"
+subheadline: 'Ja ik doe mee!!'
 
 tags: motion
 
 ---
 
-Leuk dat je intresse hebt om deel te nemen aan de studie! Omdat het voor de studie belangrijk is dat we een goede verdeling hebben van de deelnemers over verschillende leeftijden, gewicht en lengte vragen we je vast deze gegeven in te vullen. Tijdens het onderzoek worden deze exact gemeten. Je telefoon nummer achter laten hoeft niet maar is wel zo makkelijk voor ons. 
+Leuk dat je interesse hebt om deel te nemen aan de studie! Omdat het voor de studie belangrijk is dat we een goede verdeling hebben van de deelnemers over verschillende leeftijden, gewicht en lengte vragen we je vast deze gegeven in te vullen. Tijdens het onderzoek worden deze exact gemeten. Je telefoon nummer achter laten hoeft niet maar is wel zo makkelijk voor ons. 
 
-Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo snel mogelijk contact met je op. Je hier aanmelden is geheel vrijblijvend. Als we binnen jou leeftijdscategorie al genoeg deelnemers hebben kan het ook zijn dat je helaas niet meer hoeft deel te nemen. 
+Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo snel mogelijk contact met je op. Je hier aanmelden is geheel vrijblijvend. Als we binnen jouw leeftijdscategorie al genoeg deelnemers hebben kan het ook zijn dat je helaas niet meer hoeft deel te nemen. 
 
 <form 
 	name="RegistrationForm" 
@@ -27,7 +26,7 @@ Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo
 	<input type="hidden" name="subject" value="Motion Registratie" />
 	<p class="form-row">
 		<label id="contact-form-name-label" for="contact-form-name" class="form-label">Naam *</label>
-		<input type="text" name="name" id="contact-form-name" aria-labelledby="contact-form-name-label" class="form-input" required/>
+		<input type="text" name="name" id="contact-form-name" aria-labelledby="contact-form-name-label" class="form-input"/>
 	</p>
 	<p class="form-row">
 		<label id="contact-form-email-label" for="contact-form-email" class="form-label">Email adres *</label>
@@ -61,7 +60,7 @@ Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo
 		</select>
 	</p>
 	<p class="form-row">
-		<label id="contact-form-weight-label" for="contact-form-weight" class="form-label">Gewicht categorie *</label>
+		<label id="contact-form-weight-label" for="contact-form-weight" class="form-label">Gewichts categorie *</label>
 		<select name="weight" id="contact-form-weight" aria-labelledby="contact-form-weight-label" class="form-input" required>
 			<option value="">Maak een keuze</option>
 			<option value="< 50">50- kg</option>
@@ -83,7 +82,7 @@ Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo
 		</select>
 	</p>
 	<p class="form-row">
-		<label id="contact-form-height-label" for="contact-form-height" class="form-label">Lengte *</label>
+		<label id="contact-form-height-label" for="contact-form-height" class="form-label">Lengte categorie *</label>
 		<select name="height" id="contact-form-height" aria-labelledby="contact-form-height-label" class="form-input" required>
 			<option value="">Maak een keuze</option>
 			<option value="< 150">150- cm</option>
@@ -112,3 +111,5 @@ Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo
 		<button type="submit" class="button">Registreer mij</button>
 	</p>
 </form>
+
+{% include list-pages tag="motion" %}

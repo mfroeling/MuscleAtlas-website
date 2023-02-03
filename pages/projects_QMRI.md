@@ -1,12 +1,14 @@
 ---
 
 layout: page
-permalink: /projects/
-
-title: "Projects"
-subheadline: 'The projects that make it happen'
-
+permalink: /projects/QMRITools/
 header: no
+
+title: "QMRITools"
+subheadline: 'Processing of muscle quantitative MRI data.'
+teaser: "Work in progress..."
+
+tags: projects
 
 ---
 

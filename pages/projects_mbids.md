@@ -1,12 +1,14 @@
 ---
 
 layout: page
-permalink: /projects/
-
-title: "Projects"
-subheadline: 'The projects that make it happen'
-
+permalink: /projects/muscleBIDS/
 header: no
+
+title: "Muscle-BIDS"
+subheadline: 'Standardized and automated data processing.'
+teaser: "Work in progress..."
+
+tags: projects
 
 ---
 

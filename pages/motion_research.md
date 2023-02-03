@@ -1,12 +1,11 @@
 ---
 
 layout: page
-title: "Het onderzoek"
 permalink: /motion/onderzoek/
-
-subheadline: 'Welke onderzoeken worden gedaan'
-
 header: no
+
+title: "Het onderzoek"
+subheadline: 'Welke onderzoeken worden gedaan'
 
 tags: motion
 

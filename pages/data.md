@@ -1,12 +1,12 @@
 ---
 
 layout: page
-title: "Data sets"
 permalink: /data/
-
-subheadline: 'The dataset used in the project'
-
 header: no
+
+title: "Data sets"
+subheadline: 'The dataset used in the project'
+teaser: "Work in progress..."
 
 ---
 

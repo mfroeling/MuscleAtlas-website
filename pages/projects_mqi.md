@@ -1,14 +1,15 @@
 ---
 
 layout: page
-title: "Projects"
 permalink: /projects/muscle quality index/
-
-subheadline: 'The projects that make it happen'
-
 header: no
 
+title: "Muscle quality index"
+subheadline: 'Linking muscle MRI measurements to muscle function.'
+teaser: "Work in progress..."
+
 tags: projects
+
 ---
 
 *projecst text:* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu malesuada ipsum, sed ultricies enim. Vestibulum 
@@ -18,3 +19,6 @@ Morbi bibendum imperdiet tempor. Aliquam in purus nisi. Mauris nisi dui, accumsa
 ultricies feugiat elit, in vulputate augue mattis sed. Sed sed dictum mauris. Quisque eget pretium justo. Pellentesque tempus, 
 sem sed placerat commodo, quam justo auctor nunc, in dapibus leo massa rhoncus felis. Phasellus ullamcorper fringilla ligula, 
 ut varius odio bibendum sit amet. Sed auctor nulla id leo rhoncus maximus.
+
+
+{% include list-pages tag="projects" %}

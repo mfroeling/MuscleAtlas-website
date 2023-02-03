@@ -1,12 +1,14 @@
 ---
 
 layout: page
-permalink: /projects/
-
-title: "Projects"
-subheadline: 'The projects that make it happen'
-
+permalink: /projects/motion/
 header: no
+
+title: "The motion study"
+subheadline: 'Quantitative MRI and muscle force data collection.'
+teaser: "Work in progress..."
+
+tags: projects
 
 ---
 

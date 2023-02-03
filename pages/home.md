@@ -1,9 +1,9 @@
 ---
 
 title: "The Muscle Atlas Project"
-layout: frontpage
 permalink: /
 
+layout: frontpage
 homepage: true
 
 widget1:

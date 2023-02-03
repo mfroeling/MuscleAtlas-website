@@ -13,7 +13,7 @@
   - title: The motion study
     url: /projects/motion/
   - title: Muscle Bids
-    url: /projects/Muscle Bids/
+    url: /projects/muscleBIDS/
   
 - title: Data
   url: /data/
@@ -38,3 +38,7 @@
   dropdown:
   - title: Muscle Atlas
     url: /about/
+
+- title: Contact
+  url: /contact/
+  side: left
