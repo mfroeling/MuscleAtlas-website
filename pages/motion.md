@@ -7,6 +7,8 @@ header: no
 title: "De motion studie"
 subheadline: 'Wat weet jij van je spieren?'
 
+tags: motion
+
 ---
 
 Je gebruikt spieren iedere dag, bij alles wat je doet. Voor mensen met spierziekte is dit echter niet vanzelfsprekend, door hun spierzwakte worden zij bij een groot deel van de dagelijkse bezigheden beperkt. Gelukkig kunnen sommige spierziekten tegenwoordig behandeld worden met medicatie. Deze medicatie is echter erg duur en werkt ook niet bij iedereen even goed. Het is daarom belangrijk om een goede methode te hebben om te evalueren of een behandeling aanslaat. Een geschikte methode is Magnetische Resonantie Imaging (MRI) in combinatie met krachtmetingen, maar dit wordt naar maar weinig toegepast. 

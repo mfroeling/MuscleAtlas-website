@@ -25,12 +25,12 @@
   dropdown:
   - title: Beschrijving
     url: /motion/
-  - title: Het onderzoek
-    url: /motion/onderzoek/
   - title: Vragen
     url: /motion/vragen/
   - title: Registratie
     url: /motion/registratie/
+  - title: Het onderzoek
+    url: /motion/onderzoek/
 
 - title: About
   url: /about/
