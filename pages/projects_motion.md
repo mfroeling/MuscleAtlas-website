@@ -21,4 +21,8 @@ sem sed placerat commodo, quam justo auctor nunc, in dapibus leo massa rhoncus f
 ut varius odio bibendum sit amet. Sed auctor nulla id leo rhoncus maximus.
 
 
+<p align="center"><img src="/assets/images/torque.png" alt="Iso-metric and iso-kenetic muscle froce measurements using the biodex system 4"  width="90%" /></p>
+
+<p align="center"><img src="/assets/images/scans.png" alt="Bilateral acquisition of quantitative muscle MRI data of the whole leg"  width="90%" /></p>
+
 {% include list-pages tag="projects" %}

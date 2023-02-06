@@ -20,5 +20,9 @@ ultricies feugiat elit, in vulputate augue mattis sed. Sed sed dictum mauris. Qu
 sem sed placerat commodo, quam justo auctor nunc, in dapibus leo massa rhoncus felis. Phasellus ullamcorper fringilla ligula, 
 ut varius odio bibendum sit amet. Sed auctor nulla id leo rhoncus maximus.
 
+<p align="center"><img src="/assets/images/overview.png" alt="Overview of QMRITools functionality"  width="90%" /></p>
+
+<p align="center"><img src="/assets/images/processing.png" alt="Quantitative muscle MRI processing and analysis"  width="90%" /></p>
+
 
 {% include list-pages tag="projects" %}

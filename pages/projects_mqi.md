@@ -20,5 +20,15 @@ ultricies feugiat elit, in vulputate augue mattis sed. Sed sed dictum mauris. Qu
 sem sed placerat commodo, quam justo auctor nunc, in dapibus leo massa rhoncus felis. Phasellus ullamcorper fringilla ligula, 
 ut varius odio bibendum sit amet. Sed auctor nulla id leo rhoncus maximus.
 
+<p align="center"><img src="/assets/images/muscle quality index.png" alt="General concept for evaluating muscle quality using standardized analysis of quantitative MRI data"  width="90%" /></p>
+
+<p align="center"><img src="/assets/images/acquisition method.png" alt="Bilateral acquisition of quantitative muscle MRI data of the whole leg"  width="90%" /></p>
+
+<p align="center"><img src="/assets/images/data collection.png" alt="Population based acquisition of quantitative muscle MRI data in normal aging population"  width="90%" /></p>
+
+<p align="center"><img src="/assets/images/processing concepts.png" alt="Intended processing methods for whole leg quantitative muscle MRI data"  width="90%" /></p>
+
+<p align="center"><img src="/assets/images/modeling concept.png" alt="Intended statistical methods for whole leg quantitative muscle MRI data"  width="90%" /></p>
+
 
 {% include list-pages tag="projects" %}
