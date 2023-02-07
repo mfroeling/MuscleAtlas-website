@@ -32,5 +32,6 @@ Als het MRI onderzoek geweest is zal er een afspraak gemaakt worden voor een spi
 
 De isometrische krachtmeting heeft als doel de spierkracht te meten zonder dat de spier van lengte verandred. Dit wordt gedaan door terwijl de knie 90 graden gebogen is de maximale strek en buig kracht te meten zonder dat het been van positie veranderd. In tegenstelling to de isometrische krachmeting, heeft de isokenetische krachtmeting als doel de spierkracht te meten tewijl het kniegewricht beweegt. Voor deze meting wordt de maximale kracht gemeten terwijl het been met constante snelheid gestrekt en gebogen word. Beide metingen worden 5x achterelkaar herhaald.
 
+<br>
 {% include list-pages tag="motion" %}
 

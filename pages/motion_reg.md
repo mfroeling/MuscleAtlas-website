@@ -112,4 +112,5 @@ Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo
 	</p>
 </form>
 
+<br>
 {% include list-pages tag="motion" %}

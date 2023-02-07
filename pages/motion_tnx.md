@@ -12,3 +12,5 @@ header: no
 
 We hebben je een automatische mail gestuurd en nemen zo snel mogelijk contact met je op.
 
+<br>
+{% include list-pages tag="motion" %}

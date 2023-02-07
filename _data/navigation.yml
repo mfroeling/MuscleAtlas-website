@@ -6,18 +6,18 @@
   url: /projects/
   side: left     
   dropdown:
-  - title: Muscle Quality Index
-    url: /projects/muscle quality index/
   - title: QMRITools
     url: /projects/QMRITools/
-  - title: The motion study
-    url: /projects/motion/
   - title: Muscle Bids
     url: /projects/muscleBIDS/
-  
-- title: Data
-  url: /data/
-  side: left
+  - title: The motion study
+    url: /projects/motion/
+  - title: Muscle Quality Index
+    url: /projects/muscle quality index/
+   
+# - title: Data
+#  url: /data/
+#  side: left
   
 - title: Motion [NL]
   url: /motion/

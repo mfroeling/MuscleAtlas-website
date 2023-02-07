@@ -30,5 +30,5 @@ ut varius odio bibendum sit amet. Sed auctor nulla id leo rhoncus maximus.
 
 <p align="center"><img src="/assets/images/modeling concept.png" alt="Intended statistical methods for whole leg quantitative muscle MRI data"  width="90%" /></p>
 
-
+<br>
 {% include list-pages tag="projects" %}

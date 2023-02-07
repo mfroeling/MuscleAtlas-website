@@ -17,5 +17,5 @@ MRI is een techniek waarmee op een patiëntvriendelijke, niet schadelijke manier
 
 Daarom zijn wij op zoek naar gezonde mensen (niet zwanger) tussen de 16 jaar en 60 jaar die mee willen werken aan dit wetenschappelijk onderzoek. Het onderzoek bestaat uit 1x een MRI-onderzoek van de beenspieren, enkele krachtmetingen van de spieren en het invullen van twee vragenlijsten.
 
-
+<br>
 {% include list-pages tag="motion" %}

@@ -43,4 +43,5 @@ tags: motion
 9. **Wat als ik toch geen interesse meer heb in dit onderzoek**
 > Als u geen interesse meer heeft, kunt u dit aan de onderzoekers laten weten via email motion@umcutrecht.nl, en zult u van de interesse lijst worden verwijderd. U zult dan geen e-mails meer van ons ontvangen.
 
+<br>
 {% include list-pages tag="motion" %}
