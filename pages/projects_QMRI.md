@@ -9,6 +9,20 @@ subheadline: 'Processing of muscle quantitative MRI data.'
 
 tags: projects
 
+images:
+  - image_id: 'over'
+    image_name: 'overview.png'
+    image_title: 'Overview of QMRITools functionality'
+    image_alt: 'Overview of QMRITools functionality' 
+  - image_id: 'proc'
+    image_name: 'processing.png'
+    image_title: 'Quantitative muscle MRI processing and analysis'
+    image_alt: 'Quantitative muscle MRI processing and analysis'
+  - image_id: 'app'
+    image_name: 'applications of QMRITools.png'
+    image_title: 'applications of QMRITools'
+    image_alt: 'applications of QMRITools'
+
 ---
 
 <p align="center">
@@ -26,21 +40,11 @@ tags: projects
 
 `QMRITools` is a collection of tools and functions for processing quantitative MRI data. The toolbox is developed for the [Wolfram language](https://www.wolfram.com/language/) and maintained using [Wolfram workbench](https://www.wolfram.com/workbench/) for [eclipse](https://www.eclipse.org/) and runs in the latest version of [Wolfram Mathematica](http://www.wolfram.com/mathematica/). The toolbox does not provide a GUI and its primary goal is to allow for fast batch data processing, and facilitate development and prototyping of new functions. The core of the toolbox contains various functions for data manipulation and restructuring. More about QMRITools can be found [here>>](https://QMRITools.com/).
 
-<p align="center"><img 
-	src="/assets/images/overview.png"
-	title="Overview of QMRITools functionality"
-	alt="Overview of QMRITools functionality"  
-	width="90%" 
-/></p>
+{% include page-image im_id="over" %}
 
 The toolbox was developed mostly in the context of quantitative muscle ([Froeling et al. 2012](https://onlinelibrary.wiley.com/doi/10.1002/jmri.23608){:target="_blank"}), nerve and cardiac magnetic resonance imaging. The library of functions grows along with the research it is used for and started as a toolbox to analyze DWI data of muscle. Since then it has grown to include many other features such as cardiac analysis (tagging and T1 mapping), dixon reconstruction, EPG modeling and fitting, j-coupling simulations and more. It currently contains over 450 custom functions (over 30.000 lines of code) complete with more than 750 documentation pages and demonstrations for each toolbox.
 
-<p align="center"><img 
-	src="/assets/images/processing.png"
-	title="Quantitative muscle MRI processing and analysis"
-	alt="Quantitative muscle MRI processing and analysis"  
-	width="90%" 
-/></p>
+{% include page-image im_id="proc" %}
 
 ### Referencing
 
@@ -61,12 +65,7 @@ When using the toolbox please cite one of the following references:
 	quantitative MRI measures in healthy calf muscles*. NMR Biomed. 2019;32:e4119
 	[link](https://onlinelibrary.wiley.com/doi/full/10.1002/nbm.4119){:target="_blank"}
 
-<p align="center"><img 
-	src="/assets/images/applications of QMRITools.png" 
-	title="applications of QMRITools"
-	alt="applications of QMRITools"  
-	width="90%" 
-/></p>
+{% include page-image im_id="app" %}
 
 <br>
 {% include list-pages tag="projects" %}
