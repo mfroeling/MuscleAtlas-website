@@ -18,6 +18,16 @@
 # - title: Data
 #  url: /data/
 #  side: left
+- title: Muscles
+  url: /muscle/
+  side: left
+  dropdown:
+  - title: Hip muscles
+    url: /muscle/hip
+  - title: Thigh muscles
+    url: /muscle/thigh
+  - title: Leg muscles
+    url: /muscle/leg
   
 - title: Motion [NL]
   url: /motion/
