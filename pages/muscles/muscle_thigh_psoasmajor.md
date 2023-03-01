@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/thigh/psoasmajor/
 
-title: 'The psoasmajor muscle of the thigh'
+title: 'The psoas major muscle of the thigh'
 subheadline: 'Images and discription'
 
 header: no

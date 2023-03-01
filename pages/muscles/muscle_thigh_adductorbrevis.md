@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/thigh/adductorbrevis/
 
-title: 'The adductorbrevis muscle of the thigh'
+title: 'The adductor brevis muscle of the thigh'
 subheadline: 'Images and discription'
 
 header: no

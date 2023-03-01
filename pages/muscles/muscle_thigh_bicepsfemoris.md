@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/thigh/bicepsfemoris/
 
-title: 'Muscles of the bicepsFemoris compartment of the thigh'
+title: 'Muscles of the biceps femoris compartment of the thigh'
 subheadline: 'Images and discription'
 
 header: no
@@ -67,6 +67,10 @@ gallery:
     title: 'Muscles of the Biceps Femoris compartment of the Thigh 16'
 
 ---
+
+- [Biceps Femoris](/muscle/thigh/bicepsfemoris/)
+  - [Long Head Of Biceps Femoris](/muscle/thigh/longheadofbicepsfemoris/)
+  - [Short Head Of Biceps Femoris](/muscle/thigh/shortheadofbicepsfemoris/)
 
 {% include page-image im_id="ThighBicepsFemoris" %}
 

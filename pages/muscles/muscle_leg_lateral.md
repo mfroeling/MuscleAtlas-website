@@ -68,6 +68,10 @@ gallery:
 
 ---
 
+- [Lateral Compartment](/muscle/leg/lateral/)
+  - [Fibularis Longus](/muscle/leg/fibularislongus/)
+  - [Fibularis Brevis](/muscle/leg/fibularisbrevis/)
+
 {% include page-image im_id="LegLateral" %}
 
 {% include gallery %}

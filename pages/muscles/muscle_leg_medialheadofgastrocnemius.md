@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/leg/medialheadofgastrocnemius/
 
-title: 'The medialheadofgastrocnemius muscle of the leg'
+title: 'The medial head of gastrocnemius muscle of the leg'
 subheadline: 'Images and discription'
 
 header: no

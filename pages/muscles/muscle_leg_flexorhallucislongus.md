@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/leg/flexorhallucislongus/
 
-title: 'The flexorhallucislongus muscle of the leg'
+title: 'The flexor hallucis longus muscle of the leg'
 subheadline: 'Images and discription'
 
 header: no

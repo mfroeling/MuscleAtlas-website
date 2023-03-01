@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/thigh/adductormagnus/
 
-title: 'The adductormagnus muscle of the thigh'
+title: 'The adductor magnus muscle of the thigh'
 subheadline: 'Images and discription'
 
 header: no

@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/thigh/vastusmedialis/
 
-title: 'The vastusmedialis muscle of the thigh'
+title: 'The vastus medialis muscle of the thigh'
 subheadline: 'Images and discription'
 
 header: no

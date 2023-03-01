@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/hip/quadratusfemoris/
 
-title: 'The quadratusfemoris muscle of the hip'
+title: 'The quadratus femoris muscle of the hip'
 subheadline: 'Images and discription'
 
 header: no

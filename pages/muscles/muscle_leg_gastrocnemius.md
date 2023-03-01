@@ -68,6 +68,10 @@ gallery:
 
 ---
 
+- [Gastrocnemius](/muscle/leg/gastrocnemius/)
+  - [Lateral Head Of Gastrocnemius](/muscle/leg/lateralheadofgastrocnemius/)
+  - [Medial Head Of Gastrocnemius](/muscle/leg/medialheadofgastrocnemius/)
+
 {% include page-image im_id="LegGastrocnemius" %}
 
 {% include gallery %}

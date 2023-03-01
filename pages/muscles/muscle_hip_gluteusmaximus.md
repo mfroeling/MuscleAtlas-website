@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/hip/gluteusmaximus/
 
-title: 'The gluteusmaximus muscle of the hip'
+title: 'The gluteus maximus muscle of the hip'
 subheadline: 'Images and discription'
 
 header: no

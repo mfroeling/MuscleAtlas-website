@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/leg/lateralheadofgastrocnemius/
 
-title: 'The lateralheadofgastrocnemius muscle of the leg'
+title: 'The lateral head of gastrocnemius muscle of the leg'
 subheadline: 'Images and discription'
 
 header: no

@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/leg/tibialisanterior/
 
-title: 'The tibialisanterior muscle of the leg'
+title: 'The tibialis anterior muscle of the leg'
 subheadline: 'Images and discription'
 
 header: no

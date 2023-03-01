@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/hip/gluteusmedius/
 
-title: 'The gluteusmedius muscle of the hip'
+title: 'The gluteus medius muscle of the hip'
 subheadline: 'Images and discription'
 
 header: no

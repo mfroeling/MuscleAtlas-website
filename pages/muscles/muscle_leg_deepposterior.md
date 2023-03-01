@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/leg/deepposterior/
 
-title: 'Muscles of the deepposterior compartment of the leg'
+title: 'Muscles of the deep posterior compartment of the leg'
 subheadline: 'Images and discription'
 
 header: no
@@ -67,6 +67,12 @@ gallery:
     title: 'Muscles of the Deep Posterior compartment of the Leg 16'
 
 ---
+
+- [Deep Posterior Compartment](/muscle/leg/deepposterior)
+  - [Popliteus](/muscle/leg/popliteus/)
+  - [Flexor Digitorum Longus](/muscle/leg/flexordigitorumlongus/)
+  - [Flexor Hallucis Longus](/muscle/leg/flexorhallucislongus/)
+  - [Tibialis Posterior](/muscle/leg/tibialisposterior/)
 
 {% include page-image im_id="LegDeepPosterior" %}
 

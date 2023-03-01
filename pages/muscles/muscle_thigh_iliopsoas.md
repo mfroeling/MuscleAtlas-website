@@ -68,6 +68,10 @@ gallery:
 
 ---
 
+- [Iliopsoas](/muscle/thigh/iliopsoas/)
+  - [Iliacus](/muscle/thigh/iliacus/)
+  - [Psoas Major](/muscle/thigh/psoasmajor/)
+
 {% include page-image im_id="ThighIliopsoas" %}
 
 {% include gallery %}

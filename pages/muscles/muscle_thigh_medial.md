@@ -68,6 +68,13 @@ gallery:
 
 ---
 
+- [Medial Compartment](/muscle/thigh/medial)
+  - [Adductor Magnus](/muscle/thigh/adductormagnus/)
+  - [Adductor Minimus](/muscle/thigh/adductorminimus/)
+  - [Adductor Longus](/muscle/thigh/adductorlongus/)
+  - [Adductor Brevis](/muscle/thigh/adductorbrevis/)
+  - [Gracilis](/muscle/thigh/gracilis/)
+
 {% include page-image im_id="ThighMedial" %}
 
 {% include gallery %}

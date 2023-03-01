@@ -68,6 +68,12 @@ gallery:
 
 ---
 
+- [Anterior Compartment](/muscle/leg/anterior)
+  - [Tibialis Anterior](/muscle/leg/tibialisanterior/)
+  - [Extensor Digitorum Longus](/muscle/leg/extensordigitorumlongus/)
+  - [Extensor Hallucis Longus](/muscle/leg/extensorhallucislongus/)
+  - [Fibularis Tertius](/muscle/leg/fibularistertius/)
+
 {% include page-image im_id="LegAnterior" %}
 
 {% include gallery %}

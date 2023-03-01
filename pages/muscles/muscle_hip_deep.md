@@ -68,6 +68,15 @@ gallery:
 
 ---
 
+ - [Deep Compartment](/muscle/hip/deep)
+  - [Piriformis](/muscle/hip/piriformis/)
+  - [Obturator Internus](/muscle/hip/obturatorinternus/)
+  - [Obturator Externus](/muscle/hip/obturatorexternus/)
+  - [Gemelli](/muscle/hip/gemelli/)
+    - [Gemellus Superior](/muscle/hip/gemellussuperior/)
+    - [Gemellus Inferior](/muscle/hip/gemellusinferior/)
+  - [Quadratus Femoris](/muscle/hip/quadratusfemoris/)
+
 {% include page-image im_id="HipDeep" %}
 
 {% include gallery %}

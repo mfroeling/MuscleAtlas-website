@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/thigh/vastusintermedius/
 
-title: 'The vastusintermedius muscle of the thigh'
+title: 'The vastus intermedius muscle of the thigh'
 subheadline: 'Images and discription'
 
 header: no

@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/hip/tensorfasciaelatae/
 
-title: 'The tensorfasciaelatae muscle of the hip'
+title: 'The tensor fasciae latae muscle of the hip'
 subheadline: 'Images and discription'
 
 header: no

@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/leg/tibialisposterior/
 
-title: 'The tibialisposterior muscle of the leg'
+title: 'The tibialis posterior muscle of the leg'
 subheadline: 'Images and discription'
 
 header: no

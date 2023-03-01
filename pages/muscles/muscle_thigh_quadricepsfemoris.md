@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/thigh/quadricepsfemoris/
 
-title: 'Muscles of the quadricepsfemoris compartment of the thigh'
+title: 'Muscles of the quadriceps femoris compartment of the thigh'
 subheadline: 'Images and discription'
 
 header: no
@@ -67,6 +67,12 @@ gallery:
     title: 'Muscles of the Quadriceps Femoris compartment of the Thigh 16'
 
 ---
+
+- [Quadriceps Femoris](/muscle/thigh/quadricepsfemoris/)
+  - [Vastus Lateralis](/muscle/thigh/vastuslateralis/)
+  - [Vastus Intermedius](/muscle/thigh/vastusintermedius/)
+  - [Vastus Medialis](/muscle/thigh/vastusmedialis/)
+  - [Rectus Femoris](/muscle/thigh/rectusfemoris/)
 
 {% include page-image im_id="ThighQuadricepsFemoris" %}
 

@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/hip/gluteusminimus/
 
-title: 'The gluteusminimus muscle of the hip'
+title: 'The gluteus minimus muscle of the hip'
 subheadline: 'Images and discription'
 
 header: no

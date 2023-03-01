@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/thigh/adductorminimus/
 
-title: 'The adductorminimus muscle of the thigh'
+title: 'The adductor minimus muscle of the thigh'
 subheadline: 'Images and discription'
 
 header: no

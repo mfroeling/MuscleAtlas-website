@@ -68,6 +68,12 @@ gallery:
 
 ---
 
+- [Superficial Compartment](/muscle/hip/superficial)
+  - [Gluteus Maximus](/muscle/hip/gluteusmaximus/)
+  - [Gluteus Medius](/muscle/hip/gluteusmedius/)
+  - [Gluteus Minimus](/muscle/hip/gluteusminimus/)
+  - [Tensor Fasciae Latae](/muscle/hip/tensorfasciaelatae/)
+
 {% include page-image im_id="HipSuperficial" %}
 
 {% include gallery %}

@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/thigh/longheadofbicepsfemoris/
 
-title: 'The longheadofbicepsfemoris muscle of the thigh'
+title: 'The long head of biceps femoris muscle of the thigh'
 subheadline: 'Images and discription'
 
 header: no

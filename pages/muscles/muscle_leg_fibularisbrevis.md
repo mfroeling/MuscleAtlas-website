@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/leg/fibularisbrevis/
 
-title: 'The fibularisbrevis muscle of the leg'
+title: 'The fibularis brevis muscle of the leg'
 subheadline: 'Images and discription'
 
 header: no

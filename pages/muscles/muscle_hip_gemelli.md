@@ -68,6 +68,10 @@ gallery:
 
 ---
 
+- [Gemelli](/muscle/hip/gemelli/)
+  - [Gemellus Superior](/muscle/hip/gemellussuperior/)
+  - [Gemellus Inferior](/muscle/hip/gemellusinferior/)
+
 {% include page-image im_id="HipGemelli" %}
 
 {% include gallery %}

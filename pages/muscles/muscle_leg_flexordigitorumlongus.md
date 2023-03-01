@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/leg/flexordigitorumlongus/
 
-title: 'The flexordigitorumlongus muscle of the leg'
+title: 'The flexor digitorum longus muscle of the leg'
 subheadline: 'Images and discription'
 
 header: no

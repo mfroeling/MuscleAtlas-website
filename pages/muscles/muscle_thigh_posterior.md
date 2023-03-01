@@ -68,6 +68,13 @@ gallery:
 
 ---
 
+- [Posterior Compartment](/muscle/thigh/posterior)
+  - [Biceps Femoris](/muscle/thigh/bicepsfemoris/)
+    - [Long Head Of Biceps Femoris](/muscle/thigh/longheadofbicepsfemoris/)
+    - [Short Head Of Biceps Femoris](/muscle/thigh/shortheadofbicepsfemoris/)
+  - [Semimembranosus](/muscle/thigh/semimembranosus/)
+  - [Semitendinosus](/muscle/thigh/semitendinosus/)
+
 {% include page-image im_id="ThighPosterior" %}
 
 {% include gallery %}

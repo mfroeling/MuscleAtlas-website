@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/leg/superficialposterior/
 
-title: 'Muscles of the superficialposterior compartment of the leg'
+title: 'Muscles of the superficial posterior compartment of the leg'
 subheadline: 'Images and discription'
 
 header: no
@@ -67,6 +67,13 @@ gallery:
     title: 'Muscles of the Superficial Posterior compartment of the Leg 16'
 
 ---
+
+- [Superficial Posterior Compartment](/muscle/leg/superficialposterior)
+  - [Gastrocnemius](/muscle/leg/gastrocnemius/)
+    - [Lateral Head Of Gastrocnemius](/muscle/leg/lateralheadofgastrocnemius/)
+    - [Medial Head Of Gastrocnemius](/muscle/leg/medialheadofgastrocnemius/)
+  - [Soleus](/muscle/leg/soleus/)
+  - [Plantaris](/muscle/leg/plantaris/)
 
 {% include page-image im_id="LegSuperficialPosterior" %}
 

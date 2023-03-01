@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/thigh/shortheadofbicepsfemoris/
 
-title: 'The shortheadofbicepsfemoris muscle of the thigh'
+title: 'The short head of biceps femoris muscle of the thigh'
 subheadline: 'Images and discription'
 
 header: no

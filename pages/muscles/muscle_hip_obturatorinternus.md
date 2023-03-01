@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/hip/obturatorinternus/
 
-title: 'The obturatorinternus muscle of the hip'
+title: 'The obturator internus muscle of the hip'
 subheadline: 'Images and discription'
 
 header: no

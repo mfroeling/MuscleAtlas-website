@@ -68,6 +68,18 @@ gallery:
 
 ---
 
+- [Anterior Compartment](/muscle/thigh/anterior)
+  - [Quadriceps Femoris](/muscle/thigh/quadricepsfemoris/)
+    - [Vastus Lateralis](/muscle/thigh/vastuslateralis/)
+    - [Vastus Intermedius](/muscle/thigh/vastusintermedius/)
+    - [Vastus Medialis](/muscle/thigh/vastusmedialis/)
+    - [Rectus Femoris](/muscle/thigh/rectusfemoris/)
+  - [Iliopsoas](/muscle/thigh/iliopsoas/)
+    - [Iliacus](/muscle/thigh/iliacus/)
+    - [Psoas Major](/muscle/thigh/psoasmajor/)
+  - [Sartorius](/muscle/thigh/sartorius/)
+  - [Pectineus](/muscle/thigh/pectineus/)
+
 {% include page-image im_id="ThighAnterior" %}
 
 {% include gallery %}

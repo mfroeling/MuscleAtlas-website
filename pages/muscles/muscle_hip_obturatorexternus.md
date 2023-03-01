@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/hip/obturatorexternus/
 
-title: 'The obturatorexternus muscle of the hip'
+title: 'The obturator externus muscle of the hip'
 subheadline: 'Images and discription'
 
 header: no

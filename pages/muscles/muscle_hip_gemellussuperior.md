@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/hip/gemellussuperior/
 
-title: 'The gemellussuperior muscle of the hip'
+title: 'The gemellus superior muscle of the hip'
 subheadline: 'Images and discription'
 
 header: no

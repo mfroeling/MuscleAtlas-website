@@ -10,6 +10,61 @@ header: no
 
 tags: muscle
 
+images:
+  - image_id: 'Leg'
+    image_name: 'muscles/gif/Leg.gif'
+    image_title: 'Muscles of the Leg'
+    image_alt: 'Muscles of the Leg' 
+
+gallery:
+  - image_url: muscles/png/Leg-1.png
+    caption: 'Muscles of the Leg 1'
+    title: 'Muscles of the Leg 1'
+  - image_url: muscles/png/Leg-2.png
+    caption: 'Muscles of the Leg 2'
+    title: 'Muscles of the Leg 2'
+  - image_url: muscles/png/Leg-3.png
+    caption: 'Muscles of the Leg 3'
+    title: 'Muscles of the Leg 3'
+  - image_url: muscles/png/Leg-4.png
+    caption: 'Muscles of the Leg 4'
+    title: 'Muscles of the Leg 4'
+  - image_url: muscles/png/Leg-5.png
+    caption: 'Muscles of the Leg 5'
+    title: 'Muscles of the Leg 5'
+  - image_url: muscles/png/Leg-6.png
+    caption: 'Muscles of the Leg 6'
+    title: 'Muscles of the Leg 6'
+  - image_url: muscles/png/Leg-7.png
+    caption: 'Muscles of the Leg 7'
+    title: 'Muscles of the Leg 7'
+  - image_url: muscles/png/Leg-8.png
+    caption: 'Muscles of the Leg 8'
+    title: 'Muscles of the Leg 8'
+  - image_url: muscles/png/Leg-9.png
+    caption: 'Muscles of the Leg 9'
+    title: 'Muscles of the Leg 9'
+  - image_url: muscles/png/Leg-10.png
+    caption: 'Muscles of the Leg 10'
+    title: 'Muscles of the Leg 10'
+  - image_url: muscles/png/Leg-11.png
+    caption: 'Muscles of the Leg 11'
+    title: 'Muscles of the Leg 11'
+  - image_url: muscles/png/Leg-12.png
+    caption: 'Muscles of the Leg 12'
+    title: 'Muscles of the Leg 12'
+  - image_url: muscles/png/Leg-13.png
+    caption: 'Muscles of the Leg 13'
+    title: 'Muscles of the Leg 13'
+  - image_url: muscles/png/Leg-14.png
+    caption: 'Muscles of the Leg 14'
+    title: 'Muscles of the Leg 14'
+  - image_url: muscles/png/Leg-15.png
+    caption: 'Muscles of the Leg 15'
+    title: 'Muscles of the Leg 15'
+  - image_url: muscles/png/Leg-16.png
+    caption: 'Muscles of the Leg 16'
+    title: 'Muscles of the Leg 16'
 ---
 
 Work in progress
@@ -33,6 +88,11 @@ Work in progress
   - [Extensor Digitorum Longus](/muscle/leg/extensordigitorumlongus/)
   - [Extensor Hallucis Longus](/muscle/leg/extensorhallucislongus/)
   - [Fibularis Tertius](/muscle/leg/fibularistertius/)
+<br>
+{% include page-image im_id="Leg" %}
 
+{% include gallery %}
+
+### Other regions
 
 {% include list-pages tag="muscle" %}

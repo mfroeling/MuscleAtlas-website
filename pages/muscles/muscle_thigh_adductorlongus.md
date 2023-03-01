@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/thigh/adductorlongus/
 
-title: 'The adductorlongus muscle of the thigh'
+title: 'The adductor longus muscle of the thigh'
 subheadline: 'Images and discription'
 
 header: no

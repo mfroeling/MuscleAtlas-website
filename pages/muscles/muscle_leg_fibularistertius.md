@@ -3,7 +3,7 @@
 layout: page
 permalink: /muscle/leg/fibularistertius/
 
-title: 'The fibularistertius muscle of the leg'
+title: 'The fibularis tertius muscle of the leg'
 subheadline: 'Images and discription'
 
 header: no
