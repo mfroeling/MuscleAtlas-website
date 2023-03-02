@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+The muscles in the anterior compartment of the leg are a group of four muscles that act to dorsiflex and invert the foot. 
+
 - [Anterior Compartment](/muscle/leg/anterior)
   - [Tibialis Anterior](/muscle/leg/tibialisanterior/)
   - [Extensor Digitorum Longus](/muscle/leg/extensordigitorumlongus/)

@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+The lateral head of the gastrocnemius muscle originates from the lateral femoral condyle. It combines with the medial head to form a single muscle belly which converges with the soleus muscle distally to form the calcaneal tendon. This tendon inserts onto the calcaneus. The actions of the muscle include plantarflexion at the ankle joint and flexion at the knee joint.
+
 {% include page-image im_id="LegLateralHeadOfGastrocnemius" %}
 
 {% include gallery %}

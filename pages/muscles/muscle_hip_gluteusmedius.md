@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+The fan-shaped gluteus medius muscle is sandwiched between the larger gluteus maximus and the smaller gluteus minimus. It is comparable in both form and function to the gluteus minimus, originating from the gluteal surface of the ilium and inserting into the greater trochanter's lateral surface. Its primary role is to abduct and medially rotate the lower limb while stabilizing the pelvis during movement to avoid pelvic sagging on the contralateral side.
+
 {% include page-image im_id="HipGluteusMedius" %}
 
 {% include gallery %}

@@ -68,14 +68,14 @@ gallery:
 
 ---
 
-Work in progress
+The hip or better gluteal region is situated posteriorly to the pelvic girdle and proximal femur. Its muscles are responsible for hip movement and can be divided into a superficial and a deep compartment.
 
 - [Superficial Compartment](/muscle/hip/superficial)
   - [Gluteus Maximus](/muscle/hip/gluteusmaximus/)
   - [Gluteus Medius](/muscle/hip/gluteusmedius/)
   - [Gluteus Minimus](/muscle/hip/gluteusminimus/)
   - [Tensor Fasciae Latae](/muscle/hip/tensorfasciaelatae/)
- - [Deep Compartment](/muscle/hip/deep)
+- [Deep Compartment](/muscle/hip/deep)
   - [Piriformis](/muscle/hip/piriformis/)
   - [Obturator Internus](/muscle/hip/obturatorinternus/)
   - [Obturator Externus](/muscle/hip/obturatorexternus/)
@@ -83,7 +83,7 @@ Work in progress
     - [Gemellus Superior](/muscle/hip/gemellussuperior/)
     - [Gemellus Inferior](/muscle/hip/gemellusinferior/)
   - [Quadratus Femoris](/muscle/hip/quadratusfemoris/)
-<br>
+
 {% include page-image im_id="Hip" %}
 
 {% include gallery %}

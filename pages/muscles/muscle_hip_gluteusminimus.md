@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+The smallest of the superficial gluteal muscles, the gluteus minimus is situated deepest in the buttocks, much like the gluteus medius. It has a similar fan-like shape and function to the gluteus medius, originating from the ilium and converging to form a tendon that inserts into the greater trochanter's anterior surface. Its main actions are to abduct and medially rotate the lower limb while stabilizing the pelvis during locomotion to prevent contralateral pelvic sagging.
+
 {% include page-image im_id="HipGluteusMinimus" %}
 
 {% include gallery %}

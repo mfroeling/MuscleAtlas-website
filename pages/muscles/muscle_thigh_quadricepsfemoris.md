@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+The quadriceps femoris, which is among the strongest muscles in the human body, comprises four distinct muscles: the rectus femoris, and the three vastus muscles. These muscles form the prominent mass of the anterior thigh and insert into the patella via the quadriceps tendon. Subsequently, the patella is linked to the tibial tuberosity by the patellar ligament.
+
 - [Quadriceps Femoris](/muscle/thigh/quadricepsfemoris/)
   - [Vastus Lateralis](/muscle/thigh/vastuslateralis/)
   - [Vastus Intermedius](/muscle/thigh/vastusintermedius/)

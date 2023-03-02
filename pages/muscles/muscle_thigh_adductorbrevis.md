@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+The adductor brevis is a short muscle located underneath the adductor longus. It separates the anterior and posterior branches of the obturator nerve and is an important anatomical landmark within the medial thigh. It originates from the body of the pubis and inferior pubic rami, and attaches to the linea aspera on the posterior surface of the femur (proximal to the adductor longus attachment). Its primary action is adduction of the thigh.
+
 {% include page-image im_id="ThighAdductorBrevis" %}
 
 {% include gallery %}

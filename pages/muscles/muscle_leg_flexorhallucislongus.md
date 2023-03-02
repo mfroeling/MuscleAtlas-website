@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+The flexor hallucis longus muscle, located laterally within the posterior compartment, originates from the posterior surface of the fibula and attaches to the plantar surface of the phalanx of the great toe. Its action is to flex the great toe.
+
 {% include page-image im_id="LegFlexorHallucisLongus" %}
 
 {% include gallery %}

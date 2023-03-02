@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+The fibularis tertius muscle is not present in all individuals and is thought to arise from the most distal part of the extensor digitorum longus. Its origin is with the extensor digitorum longus from the medial surface of the fibula. The tendon of this muscle descends onto the dorsal surface of the foot and attaches to the fifth metatarsal. Its actions are eversion and dorsiflexion of the foot.
+
 {% include page-image im_id="LegFibularisTertius" %}
 
 {% include gallery %}

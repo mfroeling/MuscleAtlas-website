@@ -11,6 +11,6 @@
 {% for item in img %}
 	<p align="center">
 	<img src = "{{ site.urlimg }}{{ item.image_name }}" {% if item.image_title %}title = "{{ item.image_title }}"{% endif %} {% if item.image_alt %}alt = "{{ item.image_alt }}"{% endif %} width="90%"/>
-	</p><br>
+	</p>
 {% endfor %}
 </div>

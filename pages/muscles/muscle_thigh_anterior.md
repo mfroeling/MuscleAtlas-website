@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+Primarily, the muscles situated in the anterior compartment of the thigh function to flex the leg at the hip joint, although they can also exert some influence on the knee joint.
+
 - [Anterior Compartment](/muscle/thigh/anterior)
   - [Quadriceps Femoris](/muscle/thigh/quadricepsfemoris/)
     - [Vastus Lateralis](/muscle/thigh/vastuslateralis/)

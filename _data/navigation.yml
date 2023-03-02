@@ -6,15 +6,20 @@
   url: /projects/
   side: left     
   dropdown:
-  - title: QMRITools
-    url: /projects/QMRITools/
   - title: Muscle Bids
     url: /projects/muscleBIDS/
   - title: The motion study
     url: /projects/motion/
   - title: Muscle Quality Index
     url: /projects/muscle quality index/
-   
+  
+- title: Resources
+  url: /resources/
+  side: left     
+  dropdown:  
+  - title: QMRITools
+    url: /resources/QMRITools/
+ 
 # - title: Data
 #  url: /data/
 #  side: left
@@ -28,6 +33,17 @@
     url: /muscle/thigh
   - title: Leg muscles
     url: /muscle/leg
+
+- title: Methods
+  url: /methods/
+  side: left     
+  dropdown:  
+  - title: Water fat imaging
+    url: /methods/waterfat/
+  - title: Diffuion imaing
+    url: /methods/diffusion/
+  - title: T2 mapping
+    url: /methods/t2mapping/
   
 - title: Motion [NL]
   url: /motion/

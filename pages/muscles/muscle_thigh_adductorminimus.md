@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+The Pubofemoral (adductor) portion or adductor minimus, originates from the inferior pubic ramus and the rami of the ischium, and attaches to the linea aspera of the femur. Its primary actions are adduction and flexion of the thigh. 
+
 {% include page-image im_id="ThighAdductorMinimus" %}
 
 {% include gallery %}

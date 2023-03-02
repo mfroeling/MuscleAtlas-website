@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+The primary role of the superficial muscles in the gluteal region is to perform abduction and extension of the lower limb at the hip joint.
+
 - [Superficial Compartment](/muscle/hip/superficial)
   - [Gluteus Maximus](/muscle/hip/gluteusmaximus/)
   - [Gluteus Medius](/muscle/hip/gluteusmedius/)

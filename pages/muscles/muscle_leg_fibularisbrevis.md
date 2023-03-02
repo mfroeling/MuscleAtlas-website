@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+The fibularis brevis muscle is deeper and shorter than the fibularis longus. It originates from the inferolateral surface of the fibular shaft and forms a tendon that descends into the foot with the fibularis longus. The tendon travels posteriorly to the lateral malleolus, passing over the calcaneus and cuboidal bones before attaching to a tubercle on the fifth metatarsal. The actions of the fibularis brevis include eversion of the foot.
+
 {% include page-image im_id="LegFibularisBrevis" %}
 
 {% include gallery %}

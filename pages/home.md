@@ -14,7 +14,7 @@ widget1:
   
 widget2:
   title: "QMRITools"
-  url: /projects/QMRITools/
+  url: /resources/QMRITools/
   image: front-QMRITools.png
   text: 'QMRITools is a collection of tools and functions for processing quantitative MRI data.The toolbox was developed mostly in the context of quantitative muscle, nerve and cardiac magnetic resonance imaging.'
   

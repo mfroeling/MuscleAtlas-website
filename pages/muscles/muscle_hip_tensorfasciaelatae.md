@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+Located towards the anterior edge of the iliac crest, the tensor fasciae latae is a small, superficial muscle that serves to tighten the fascia lata. It originates from the anterior iliac crest, attaching to the anterior superior iliac spine, and inserts into the iliotibial tract, which then attaches to the lateral condyle of the tibia. The tensor fasciae latae plays a supportive role in the gait cycle and works alongside the gluteus medius and minimus in abducting and medially rotating the lower limb.
+
 {% include page-image im_id="HipTensorFasciaeLatae" %}
 
 {% include gallery %}

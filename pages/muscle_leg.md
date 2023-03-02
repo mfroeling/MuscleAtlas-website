@@ -67,7 +67,7 @@ gallery:
     title: 'Muscles of the Leg 16'
 ---
 
-Work in progress
+The leg muscles, which are numerous, can be divided into three primary compartments: the anterior, lateral, and posterior compartments, with the latter, further subdivided into a deep and superficial compartment. Generally, the muscles located in the lower leg are involved in ankle joint movements.
 
 - [Superficial Posterior Compartment](/muscle/leg/superficialposterior)
   - [Gastrocnemius](/muscle/leg/gastrocnemius/)
@@ -88,7 +88,7 @@ Work in progress
   - [Extensor Digitorum Longus](/muscle/leg/extensordigitorumlongus/)
   - [Extensor Hallucis Longus](/muscle/leg/extensorhallucislongus/)
   - [Fibularis Tertius](/muscle/leg/fibularistertius/)
-<br>
+
 {% include page-image im_id="Leg" %}
 
 {% include gallery %}

@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+The short head of biceps femoris originates from the linea aspera on the posterior surface of the femur. Both the long and short heads form a tendon that inserts into the head of the fibula. Its main action is knee flexion, but it also extends the thigh at the hip and laterally rotates at the hip and knee.
+
 {% include page-image im_id="ThighShortHeadOfBicepsFemoris" %}
 
 {% include gallery %}

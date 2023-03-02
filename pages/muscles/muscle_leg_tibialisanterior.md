@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+Located along the lateral surface of the tibia, the tibialis anterior muscle is the strongest dorsiflexor of the foot. Its origin is from the lateral surface of the tibia and it attaches to the medial cuneiform and the base of metatarsal I. Its actions include dorsiflexion and inversion of the foot.
+
 {% include page-image im_id="LegTibialisAnterior" %}
 
 {% include gallery %}

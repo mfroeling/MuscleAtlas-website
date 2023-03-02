@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+Behind both the tibialis anterior and extensor digitorum longus lies the extensor hallucis longus. The tendon of this muscle emerges from between the two muscles and inserts onto the big toe. Its origin is from the medial surface of the fibular shaft, and the tendon crosses anterior to the ankle joint to attach to the base of the distal phalanx of the great toe. Its action includes the extension of the great toe and dorsiflexion of the foot.
+
 {% include page-image im_id="LegExtensorHallucisLongus" %}
 
 {% include gallery %}

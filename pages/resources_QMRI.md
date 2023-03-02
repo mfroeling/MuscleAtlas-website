@@ -1,13 +1,13 @@
 ---
 
 layout: page
-permalink: /projects/QMRITools/
+permalink: /resources/QMRITools/
 header: no
 
 title: "QMRITools"
 subheadline: 'Processing of muscle quantitative MRI data.'
 
-tags: projects
+tags: resources
 
 images:
   - image_id: 'over'

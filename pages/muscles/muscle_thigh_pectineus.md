@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+The Pectineus muscle is a flat, quadrangular-shaped muscle that contributes to the floor of the femoral triangle. It originates from the pectineal line of the pubis bone and inserts onto the pectineal line on the posterior aspect of the femur, immediately inferior to the lesser trochanter. Its actions include adduction and flexion at the hip joint.
+
 {% include page-image im_id="ThighPectineus" %}
 
 {% include gallery %}

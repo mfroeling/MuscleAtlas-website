@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+The Rectus Femoris muscle originates from the anterior inferior iliac spine and the ilium of the pelvis and attaches to the patella via the quadriceps femoris tendon. Its actions include the extension of the knee joint and the flexion of the hip joint, and it is the only muscle of the quadriceps group to cross both the hip and knee joints.
+
 {% include page-image im_id="ThighRectusFemoris" %}
 
 {% include gallery %}

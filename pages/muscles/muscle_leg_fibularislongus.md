@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+The fibularis longus is the larger and more superficial muscle in its compartment. It originates from the superior and lateral surfaces of the fibula as well as the lateral tibial condyle. Its fibres converge to form a tendon that descends into the foot, passing posterior to the lateral malleolus. The tendon crosses under the foot and attaches to the medial cuneiform and base of metatarsal I. Its actions include eversion and plantarflexion of the foot, as well as support of the lateral and transverse arches of the foot.
+
 {% include page-image im_id="LegFibularisLongus" %}
 
 {% include gallery %}

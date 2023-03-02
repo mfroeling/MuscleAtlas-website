@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+The superficial compartment of the posterior leg comprises three muscles that all insert into the calcaneus (heel bone) of the foot through the calcaneal tendon. To reduce friction during movement, two bursae (fluid-filled sacs) are linked to the calcaneal tendon.
+
 - [Superficial Posterior Compartment](/muscle/leg/superficialposterior)
   - [Gastrocnemius](/muscle/leg/gastrocnemius/)
     - [Lateral Head Of Gastrocnemius](/muscle/leg/lateralheadofgastrocnemius/)

@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+The intertrochanteric line and medial lip of the linea aspera of the femur serve as the proximal attachment of the Vastus Medialis muscle. Its primary actions are the extension of the knee joint, and it also has a secondary function of stabilizing the patella.
+
 {% include page-image im_id="ThighVastusMedialis" %}
 
 {% include gallery %}

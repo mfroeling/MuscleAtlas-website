@@ -68,6 +68,8 @@ gallery:
 
 ---
 
+The soleus is a flat muscle located beneath the gastrocnemius muscle. It is named after its resemblance to a sole fish. The muscle originates from the soleal line of the tibia and proximal fibula, and converges with the gastrocnemius fibers to form the calcaneal tendon, which inserts onto the calcaneus. The actions of the muscle include plantarflexion of the foot at the ankle joint.
+
 {% include page-image im_id="LegSoleus" %}
 
 {% include gallery %}
