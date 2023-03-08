@@ -22,7 +22,7 @@ All data generated within the muscle-atlas projects will be stored in the Muscle
     - DTI, IVIM, T2-mapping and Dixon
     - Data merging
 > - Analysis of processed Muscle-BIDS data
-    - ROI analysis 
+    - ROI analysis
     - Tract based analysis
 
 ## Data structure
@@ -84,5 +84,4 @@ An example of a folder structure is shown below:
 
 </div>
 
-<br>
 {% include list-pages tag="projects" %}

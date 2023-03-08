@@ -33,4 +33,3 @@ widget3:
 Within the next 3 years we will collect <b>160 full leg quantitative MRI data-sets</b> together with force and function measurements. 
 <br><br>
 </div>
-

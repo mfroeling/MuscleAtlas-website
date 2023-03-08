@@ -40,10 +40,9 @@ The burden of neuromuscular diseases on society is significant and often require
 
 Despite its sensitivity, qMRI parameters often lack specificity and are not directly related to muscle function. The Muscle Quality Index project aims to address this challenge by defining a unique fingerprint for every muscle in a large group of healthy individuals, incorporating qMRI parameters, muscle architecture, and functional measurements. Our multi-parametric approach will detect and characterize deviations from normal, hopefully, with greater specificity than using individual parameters alone, and establish a direct connection between imaging parameters and muscle structure and function.
 
-
 ### The Blind Spot
 
-Commonly used quantitative MRI (qMRI) methods, such as Dixon imaging for fat quantification, water T2-mapping (T2m) for inflammation detection, and diffusion-weighted imaging (DWI) and fiber tractography for muscle microstructure and architecture characterization, are now widely available. However, despite the capability of MRI to visualize large areas of the human body in 3D, the use of these muscle qMRI methods is often limited to a few muscles using localized 2D acquisition. 
+Commonly used quantitative MRI (qMRI) methods, such as Dixon imaging for fat quantification, water T2-mapping (T2m) for inflammation detection, and diffusion-weighted imaging (DWI) and fiber tractography for muscle microstructure and architecture characterization, are now widely available. However, despite the capability of MRI to visualize large areas of the human body in 3D, the use of these muscle qMRI methods is often limited to a few muscles using localized 2D acquisition.
 
 {% include page-image im_id="acq" %}
 
@@ -69,5 +68,4 @@ By establishing a unique muscle and subject-specific fingerprint that links musc
 
 {% include page-image im_id="finger" %}
 
-<br>
 {% include list-pages tag="projects" %}

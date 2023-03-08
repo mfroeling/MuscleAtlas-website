@@ -31,5 +31,4 @@ The last part of the study involves measuring muscle strength in the right upper
 
 {% include page-image im_id="tor" %}
 
-<br>
 {% include list-pages tag="projects" %}
