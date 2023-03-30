@@ -4,7 +4,7 @@ layout: page
 permalink: /motion/bedankt/
 
 title: "Bedankt"
-subheadline: 'Fijn de je intresse hebt!!'
+subheadline: 'Fijn dat je interesse hebt!'
 
 header: no
 
