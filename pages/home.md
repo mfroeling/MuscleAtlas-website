@@ -24,12 +24,20 @@ widget3:
   image: front-Muscle-Bids.png
   text: 'For automated data processing of processing with various tool-boxes data management is important. For this, the muscle MRI community is developing the Muscle BIDS data structure.'
 
+images:
+  - image_id: 'leg'
+    image_name: 'whole leg.png'
+    image_title: 'Whole leg quantitative MRI of skeletal muscle'
+    image_alt: 'Whole leg quantitative MRI of skeletal muscle' 
+
 ---
 
 <div align="center" ><h1>Welcome to the muscle atlas project!</h1></div>
 
 <div class="t30" align="center" style="background-color: #D3D3D3; border-radius: 10px;">
-<br><em>Data acquisition for the motion study has started!</em><br><br>
+<br><em>Data acquisition for the <b>motion study</b> has started!</em><br>
+
+{% include page-image im_id="leg" %}
 Within the next 3 years we will collect <b>160 full leg quantitative MRI data-sets</b> together with force and function measurements. 
 <br><br>
 </div>
