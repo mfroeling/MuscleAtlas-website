@@ -4,7 +4,7 @@ layout: page
 permalink: /methods/t2mapping/
 
 title: "T2 mapping"
-subheadline: 'Quantifying inflamation and edema'
+subheadline: 'Quantifying inflammation and edema'
 teaser: More coming soon
 
 header: no

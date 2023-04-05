@@ -38,6 +38,7 @@ images:
 <br><em>Data acquisition for the <b>motion study</b> has started!</em><br>
 
 {% include page-image im_id="leg" %}
-Within the next 3 years we will collect <b>160 full leg quantitative MRI data-sets</b> together with force and function measurements. 
+
+Within the next 3 years we will collect <b>160 full leg quantitative MRI data-sets</b> together with force and function measurements.
 <br><br>
 </div>

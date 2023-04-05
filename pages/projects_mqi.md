@@ -30,7 +30,7 @@ images:
   - image_id: 'finger'
     image_name: 'muscle fingerprint.png'
     image_title: 'Defining a per muscle finger print to understand disease'
-    image_alt: 'Finding muscle finger prints of healhty aging muscle to better understand disease' 
+    image_alt: 'Finding muscle finger prints of healthy aging muscle to better understand disease' 
 
 ---
 
@@ -64,7 +64,7 @@ In order to study muscle architecture and anatomy from the acquired data, it is 
 
 ### The Muscle Quality Index
 
-By establishing a unique muscle and subject-specific fingerprint that links muscle to function, qMRI measurements will enable a personalized evaluation of muscle abnormalities and changes. This Muscle Quality Index aspires to become usefull for objective and direct assessments of treatment responses in individual subjects. This project will hopefully further research into muscle function and dysfunction and facilitate the translation of these methods into clinical practice. And eventually change the way we analyze and interpret qMRI data to better serve the clinical needs of individual patients across a broad spectrum of muscle diseases.
+By establishing a unique muscle and subject-specific fingerprint that links muscle to function, qMRI measurements will enable a personalized evaluation of muscle abnormalities and changes. This Muscle Quality Index aspires to become useful for objective and direct assessments of treatment responses in individual subjects. This project will hopefully further research into muscle function and dysfunction and facilitate the translation of these methods into clinical practice. And eventually change the way we analyze and interpret qMRI data to better serve the clinical needs of individual patients across a broad spectrum of muscle diseases.
 
 {% include page-image im_id="finger" %}
 

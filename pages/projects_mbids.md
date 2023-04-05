@@ -39,16 +39,16 @@ To prevent ambiguity most MRI acquisitions are stored in predefined folders. Mus
 An example of a folder structure is shown below:
 
 <div style="
-	background-color:black; 
-	font-family:Roboto Mono,SFMono-Regular,Consolas,Menlo,monospace; 
-	line-height: 1.17; 
-	padding-top: 25px; 
-	padding-bottom: 25px;
-	padding-left: 15px;
-	padding-right: 15px;
-	color: white; 
-	font-weight: bold; 
-	font-size: 12px">
+  background-color:black; 
+  font-family:Roboto Mono,SFMono-Regular,Consolas,Menlo,monospace; 
+  line-height: 1.17; 
+  padding-top: 25px; 
+  padding-bottom: 25px;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: white; 
+  font-weight: bold; 
+  font-size: 12px">
 
 └─example/<br>
 &nbsp;&nbsp;├─sub-cont001/<br>
