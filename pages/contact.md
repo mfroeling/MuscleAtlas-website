@@ -21,11 +21,11 @@ Leave your message here and we will get in contact as soon as possible.
 >
   <input type="hidden" name="subject" value="Muscle atlas contact" />
   <p class="form-row">
-    <label id="contact-form-name-label" for="contact-form-name" class="form-label">Name &#42</label>
+    <label id="contact-form-name-label" for="contact-form-name" class="form-label">Name &ast;</label>
     <input type="text" name="name" id="contact-form-name" aria-labelledby="contact-form-name-label" class="form-input"/>
   </p>
   <p class="form-row">
-    <label id="contact-form-email-label" for="contact-form-email" class="form-label">Email address &#42</label>
+    <label id="contact-form-email-label" for="contact-form-email" class="form-label">Email address &ast;</label>
     <input type="email" name="email" id="contact-form-email" aria-labelledby="contact-form-email-label" class="form-input" required/>
   </p>
   <p class="form-row">
