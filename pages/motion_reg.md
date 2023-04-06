@@ -72,7 +72,7 @@ Mocht je op deze dagen niet kunnnen kan je je toch gewoon inschrijven en kunnen 
     </select>
   </p>
   <p class="form-row">
-    <label id="contact-form-weight-label" for="contact-form-weight" class="form-label">Gewichts categorie &ast</label>
+    <label id="contact-form-weight-label" for="contact-form-weight" class="form-label">Gewichts categorie &ast; </label>
     <select name="weight" id="contact-form-weight" aria-labelledby="contact-form-weight-label" class="form-input" required>
       <option value="">Maak een keuze</option>
       <option value="< 50">50- kg</option>
@@ -94,7 +94,7 @@ Mocht je op deze dagen niet kunnnen kan je je toch gewoon inschrijven en kunnen 
     </select>
   </p>
   <p class="form-row">
-    <label id="contact-form-height-label" for="contact-form-height" class="form-label">Lengte categorie &ast</label>
+    <label id="contact-form-height-label" for="contact-form-height" class="form-label">Lengte categorie &ast; </label>
     <select name="height" id="contact-form-height" aria-labelledby="contact-form-height-label" class="form-input" required>
       <option value="">Maak een keuze</option>
       <option value="< 150">150- cm</option>
