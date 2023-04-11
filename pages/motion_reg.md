@@ -37,11 +37,11 @@ Mocht je op deze dagen niet kunnnen kan je je toch gewoon inschrijven en kunnen 
 >
   <input type="hidden" name="subject" value="Motion Registratie" />
   <p class="form-row">
-    <label id="contact-form-name-label" for="contact-form-name" class="form-label">Naam &#42</label>
+    <label id="contact-form-name-label" for="contact-form-name" class="form-label">Naam &ast;</label>
     <input type="text" name="name" id="contact-form-name" aria-labelledby="contact-form-name-label" class="form-input"/>
   </p>
   <p class="form-row">
-    <label id="contact-form-email-label" for="contact-form-email" class="form-label">Email adres &#42</label>
+    <label id="contact-form-email-label" for="contact-form-email" class="form-label">Email adres &ast;</label>
     <input type="email" name="email" id="contact-form-email" aria-labelledby="contact-form-email-label" class="form-input" required/>
   </p>
   <p class="form-row">
@@ -49,7 +49,7 @@ Mocht je op deze dagen niet kunnnen kan je je toch gewoon inschrijven en kunnen 
     <input type="phone" name="phone" id="contact-form-phone" aria-labelledby="contact-form-phone-label" class="form-input"/>
   </p>
   <p class="form-row">
-    <label id="contact-form-gender-label" for="contact-form-gender" class="form-label">Geslacht *</label>
+    <label id="contact-form-gender-label" for="contact-form-gender" class="form-label">Geslacht &ast;</label>
     <select name="gender" id="contact-form-gender" aria-labelledby="contact-form-gender-label" class="form-input" required>
       <option value="">Maak een keuze</option>
       <option value="Man">Man</option>
@@ -57,7 +57,7 @@ Mocht je op deze dagen niet kunnnen kan je je toch gewoon inschrijven en kunnen 
     </select>
   </p>
   <p class="form-row">
-    <label id="contact-form-age-label" for="contact-form-age" class="form-label">Leeftijdscategorie &#42</label>
+    <label id="contact-form-age-label" for="contact-form-age" class="form-label">Leeftijdscategorie &ast;</label>
     <select name="age" id="contact-form-age" aria-labelledby="contact-form-age-label" class="form-input" required>
       <option value="">Maak een keuze</option>
       <option value="16-20">16-20</option>
