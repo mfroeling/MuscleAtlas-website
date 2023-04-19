@@ -70,6 +70,8 @@ gallery:
 
 The vastus lateralis originates from the greater trochanter and the lateral lip of linea aspera of the femur. Its primary action is knee joint extension, while it also stabilizes the patella.
 
+[Back››](/muscle/thigh/anterior/)
+
 {% include page-image im_id="ThighVastusLateralis" %}
 
 {% include gallery %}

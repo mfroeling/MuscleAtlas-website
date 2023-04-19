@@ -70,6 +70,8 @@ gallery:
 
 The flexor digitorum longus muscle is a thin muscle located medially within the posterior leg. It originates from the medial surface of the tibia and attaches to the plantar surfaces of the lateral four digits. Its action is to flex the lateral four toes.
 
+[Back››](/muscle/leg/deepposterior/)
+
 {% include page-image im_id="LegFlexorDigitorumLongus" %}
 
 {% include gallery %}

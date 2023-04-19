@@ -70,6 +70,8 @@ gallery:
 
 The psoas major muscle originates from the lumbar vertebrae and attaches along with the iliacus to the lesser trochanter of the femur. Its primary function is to flex the thigh at the hip joint.
 
+[Back››](/muscle/thigh/anterior/)
+
 {% include page-image im_id="ThighPsoasMajor" %}
 
 {% include gallery %}

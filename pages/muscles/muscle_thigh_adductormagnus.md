@@ -70,6 +70,8 @@ gallery:
 
 The adductor magnus is the largest muscle in the medial compartment of the thigh. It is comprised of two parts – an adductor component and a hamstring component. The Pubofemoral (adductor) portion or adductor minimus, originates from the inferior pubic ramus and the rami of the ischium, and attaches to the linea aspera of the femur. Its primary actions are adduction and flexion of the thigh. The Ischiocondylar (Hamstring) portion originates from the ischial tuberosity and attaches to the adductor tubercle and medial supracondylar line of the femur. Its primary actions are adduction and extension of the thigh.
 
+[Back››](/muscle/thigh/medial/)
+
 {% include page-image im_id="ThighAdductorMagnus" %}
 
 {% include gallery %}

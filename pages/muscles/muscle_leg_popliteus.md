@@ -70,6 +70,8 @@ gallery:
 
 Located behind the knee joint, the popliteus muscle forms the base of the popliteal fossa. The popliteus bursa, a fluid-filled sac, lies between the popliteal tendon and the posterior surface of the knee joint. It originates from the lateral condyle of the femur and the lateral meniscus of the knee joint, and inserts onto the proximal tibia, immediately above the origin of the soleus muscle. Its action is lateral rotation of the femur relative to the tibia, which 'unlocks' the knee joint to allow flexion.
 
+[Back››](/muscle/leg/deepposterior/)
+
 {% include page-image im_id="LegPopliteus" %}
 
 {% include gallery %}

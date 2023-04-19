@@ -70,6 +70,8 @@ gallery:
 
 The obturator internus muscle forms the lateral walls of the pelvic cavity and is sometimes grouped with the Gemelli muscles to form the triceps coxae. Its origins lie in the pubis and ischium at the obturator foramen. The muscle travels through the lesser sciatic foramen and attaches to the greater trochanter of the femur. Its primary functions include lateral rotation and abduction.
 
+[Back››](/muscle/hip/deep/)
+
 {% include page-image im_id="HipObturatorInternus" %}
 
 {% include gallery %}

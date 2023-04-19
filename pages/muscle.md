@@ -4,7 +4,8 @@ layout: page
 permalink: /muscle/
 
 title: "Muscles of the human body"
-subheadline: 'Images and description'
+subheadline: "Images and description"
+teaser: "Currently the following muscle overviews are available"
 
 header: no
 
@@ -66,11 +67,11 @@ gallery:
 
 ---
 
-Currently the following muscle overviews are available:
+## Muscles of the lower limb
 
 {% include list-pages tag="muscle" %}
 
-</br>
+<br>
 
 {% include page-image im_id="LowerLimb" %}
 

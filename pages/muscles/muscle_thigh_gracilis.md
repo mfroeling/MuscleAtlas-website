@@ -70,6 +70,8 @@ gallery:
 
 The gracilis is the most superficial and medial of the muscles in this compartment. It crosses both the hip and knee joints, originating from the inferior pubic rami and the body of the pubis, and descending down the medial aspect of the thigh to attach to the medial surface of the tibial shaft. Its primary actions are adduction of the thigh at the hip and flexion of the leg at the knee.
 
+[Back››](/muscle/thigh/medial/)
+
 {% include page-image im_id="ThighGracilis" %}
 
 {% include gallery %}

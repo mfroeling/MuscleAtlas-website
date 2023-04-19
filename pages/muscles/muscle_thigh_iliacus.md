@@ -70,6 +70,8 @@ gallery:
 
 The iliacus muscle originates from the iliac fossa of the pelvis and inserts along with the psoas major to the lesser trochanter of the femur. Its primary function is to flex the thigh at the hip joint.
 
+[Back››](/muscle/thigh/anterior/)
+
 {% include page-image im_id="ThighIliacus" %}
 
 {% include gallery %}

@@ -70,6 +70,8 @@ gallery:
 
 The quadratus femoris muscle is square-shaped and flat. It is situated at the lowest point of the deep gluteal muscles, beneath the gemelli and obturator internus. The muscle originates from the lateral aspect of the ischial tuberosity and attaches to the quadrate tuberosity on the intertrochanteric crest. Its primary function is lateral rotation.
 
+[Back››](/muscle/hip/deep/)
+
 {% include page-image im_id="HipQuadratusFemoris" %}
 
 {% include gallery %}

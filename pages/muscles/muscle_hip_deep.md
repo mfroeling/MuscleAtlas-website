@@ -70,7 +70,9 @@ gallery:
 
 Situated beneath the gluteus minimus, the deep gluteal muscles consist of several smaller muscles that chiefly function to externally rotate the lower limb. Moreover, they contribute to hip joint stabilization by drawing the femoral head towards the acetabulum of the pelvis.
 
- - [Deep Compartment](/muscle/hip/deep)
+[Back››](/muscle/hip/)
+
+- [Deep Compartment](/muscle/hip/deep)
   - [Piriformis](/muscle/hip/piriformis/)
   - [Obturator Internus](/muscle/hip/obturatorinternus/)
   - [Obturator Externus](/muscle/hip/obturatorexternus/)

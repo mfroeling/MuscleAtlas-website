@@ -70,6 +70,8 @@ gallery:
 
 The plantaris muscle is a small muscle that is absent in approximately 10% of the population. It originates from the lateral supracondylar line of the femur and condenses into a tendon that travels down the leg between the gastrocnemius and soleus muscles. The tendon blends with the calcaneal tendon and inserts into the calcaneus. The actions of the muscle include contributing to plantarflexion at the ankle joint and flexion at the knee joint.
 
+[Back››](/muscle/leg/superficialposterior/)
+
 {% include page-image im_id="LegPlantaris" %}
 
 {% include gallery %}

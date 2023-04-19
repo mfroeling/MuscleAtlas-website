@@ -70,6 +70,8 @@ gallery:
 
 The obturator externus is one of the smaller muscles located in the superior part of the medial thigh compartment. Its origins are in the obturator foramen membrane and adjacent bone. It passes under the neck of the femur and attaches to the back of the greater trochanter. The muscle is primarily responsible for adduction and lateral rotation of the thigh
 
+[Back››](/muscle/hip/deep/)
+
 {% include page-image im_id="HipObturatorExternus" %}
 
 {% include gallery %}

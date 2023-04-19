@@ -70,6 +70,8 @@ gallery:
 
 As the largest of the gluteal muscles, the gluteus maximus gives shape to the buttocks and is situated closest to the surface. Its point of origin is the posterior surface of the ilium, sacrum, and coccyx, while its fibers slant across the buttocks at a 45-degree angle and attach to the iliotibial tract and gluteal tuberosity of the femur. While the gluteus maximus is primarily responsible for extending the thigh, it also provides support for lateral rotation.
 
+[Back››](/muscle/hip/superficial/)
+
 {% include page-image im_id="HipGluteusMaximus" %}
 
 {% include gallery %}

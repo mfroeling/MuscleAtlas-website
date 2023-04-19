@@ -70,6 +70,8 @@ gallery:
 
 The semimembranosus muscle is broad and flattened, and it lies deep to the semitendinosus on the medial aspect of the posterior thigh. It originates from the ischial tuberosity (more superiorly than the origin of the semitendinosus and biceps femoris) and attaches to the medial tibial condyle. Its actions include knee flexion, extension of the thigh at the hip, and medial rotation of the thigh at the hip joint and the leg at the knee joint.
 
+[Back››](/muscle/thigh/posterior/)
+
 {% include page-image im_id="ThighSemimembranosus" %}
 
 {% include gallery %}

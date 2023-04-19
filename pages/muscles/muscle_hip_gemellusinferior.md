@@ -70,6 +70,8 @@ gallery:
 
 The inferior gemellus muscle originates from the ischial tuberosity and attaches to the greater trochanter of the femur. Its primary functions are lateral rotation and abduction.
 
+[Back››](/muscle/hip/deep/)
+
 {% include page-image im_id="HipGemellusInferior" %}
 
 {% include gallery %}

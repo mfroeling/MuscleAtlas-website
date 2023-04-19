@@ -70,6 +70,8 @@ gallery:
 
 The vastus intermedius originates from the anterior and lateral surfaces of the femoral shaft. Its main action is knee joint extension, while it also stabilizes the patella.
 
+[Back››](/muscle/thigh/anterior/)
+
 {% include page-image im_id="ThighVastusIntermedius" %}
 
 {% include gallery %}

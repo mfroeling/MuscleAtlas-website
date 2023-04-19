@@ -70,6 +70,8 @@ gallery:
 
 The muscles of the thigh can be divided into three primary compartments, namely the anterior, posterior, and medial compartments. Together, these muscles are responsible for a wide range of movements that involve both the hip and knee joints.
 
+[Back››](/muscle/)
+
 - [Posterior Compartment](/muscle/thigh/posterior)
   - [Biceps Femoris](/muscle/thigh/bicepsfemoris/)
     - [Long Head Of Biceps Femoris](/muscle/thigh/longheadofbicepsfemoris/)

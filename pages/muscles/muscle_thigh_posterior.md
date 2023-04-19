@@ -70,6 +70,8 @@ gallery:
 
 The posterior thigh compartment encompasses the hamstrings, a group of muscles that form noticeable tendons on either side of the posterior side of the knee. The gunction of these muscles is to extend the hip and flex the knee.
 
+[Back››](/muscle/thigh/)
+
 - [Posterior Compartment](/muscle/thigh/posterior)
   - [Biceps Femoris](/muscle/thigh/bicepsfemoris/)
     - [Long Head Of Biceps Femoris](/muscle/thigh/longheadofbicepsfemoris/)

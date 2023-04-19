@@ -70,6 +70,8 @@ gallery:
 
 The superior gemellus muscle has its origin at the ischial spine and attaches to the greater trochanter of the femur. Its primary functions are lateral rotation and abduction.
 
+[Back››](/muscle/hip/deep/)
+
 {% include page-image im_id="HipGemellusSuperior" %}
 
 {% include gallery %}

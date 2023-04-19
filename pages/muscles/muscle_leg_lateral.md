@@ -70,6 +70,8 @@ gallery:
 
 The muscles located in the lateral compartment of the leg are responsible for the eversion of the foot.
 
+[Back››](/muscle/leg/)
+
 - [Lateral Compartment](/muscle/leg/lateral/)
   - [Fibularis Longus](/muscle/leg/fibularislongus/)
   - [Fibularis Brevis](/muscle/leg/fibularisbrevis/)

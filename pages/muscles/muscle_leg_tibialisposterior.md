@@ -70,6 +70,8 @@ gallery:
 
 The tibialis posterior muscle is the deepest of the four muscles and lies between the flexor digitorum longus and the flexor hallucis longus. It originates from the posterior surface and interosseous membrane of the tibia and fibula. The tendon enters the foot posterior to the medial malleolus and attaches to the plantar surfaces of the medial tarsal bones. Its actions are inversion and plantarflexion of the foot and it contributes to the medial arch of the foot.
 
+[Back››](/muscle/leg/deepposterior/)
+
 {% include page-image im_id="LegTibialisPosterior" %}
 
 {% include gallery %}

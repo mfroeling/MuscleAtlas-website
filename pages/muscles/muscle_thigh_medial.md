@@ -68,7 +68,9 @@ gallery:
 
 ---
 
-The muscles in the medial compartment of the thigh are are generally involved in hip adduction. 
+The muscles in the medial compartment of the thigh are are generally involved in hip adduction.
+
+[Back››](/muscle/thigh/)
 
 - [Medial Compartment](/muscle/thigh/medial)
   - [Adductor Magnus](/muscle/thigh/adductormagnus/)

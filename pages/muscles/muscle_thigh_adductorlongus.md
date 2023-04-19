@@ -70,6 +70,8 @@ gallery:
 
 The adductor longus is a large, flat muscle that partially covers the adductor brevis and magnus. It forms the medial border of the femoral triangle and originates from the pubis bone of the pelvis, expanding into a fan shape with a broad distal attachment along the linea aspera of the femur. Its primary action is adduction of the thigh.
 
+[Back››](/muscle/thigh/medial/)
+
 {% include page-image im_id="ThighAdductorLongus" %}
 
 {% include gallery %}

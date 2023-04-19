@@ -70,6 +70,8 @@ gallery:
 
 The piriformis muscle is situated at the top of the gluteal region and is the most superior of the deep muscles. It originates from the front surface of the sacrum and its fibers travel downwards and outwards through the greater sciatic foramen, attaching to the greater trochanter of the femur. Its primary actions include lateral rotation and abduction.
 
+[Back››](/muscle/hip/deep/)
+
 {% include page-image im_id="HipPiriformis" %}
 
 {% include gallery %}

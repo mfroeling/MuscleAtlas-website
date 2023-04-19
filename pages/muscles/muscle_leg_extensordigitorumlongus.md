@@ -70,6 +70,8 @@ gallery:
 
 Deep and lateral to the tibialis anterior is the extensor digitorum longus. Its four tendons can be palpated on the dorsal surface of the foot. Originating from the lateral condyle of the tibia and the medial surface of the fibula, its fibres converge into a tendon, which travels onto the dorsal surface of the foot. The tendon splits into four and each tendon inserts onto a toe. Its actions are the extension of the lateral four toes, and dorsiflexion of the foot.
 
+[Back››](/muscle/leg/anterior/)
+
 {% include page-image im_id="LegExtensorDigitorumLongus" %}
 
 {% include gallery %}

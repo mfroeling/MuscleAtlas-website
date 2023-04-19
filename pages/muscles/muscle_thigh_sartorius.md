@@ -70,6 +70,8 @@ gallery:
 
 The Sartorius muscle is the longest muscle in the body and runs across the thigh in an inferomedial direction. It originates from the anterior superior iliac spine and attaches to the superior, medial surface of the tibia. At the hip joint, it acts as a flexor, abductor, and lateral rotator, while at the knee joint, it acts as a flexor.
 
+[Back››](/muscle/thigh/anterior/)
+
 {% include page-image im_id="ThighSartorius" %}
 
 {% include gallery %}

@@ -70,6 +70,8 @@ gallery:
 
 The Gemelli are two narrow and triangular muscles, separated by the obturator internus tendon.
 
+[Back››](/muscle/hip/deep/)
+
 - [Gemelli](/muscle/hip/gemelli/)
   - [Gemellus Superior](/muscle/hip/gemellussuperior/)
   - [Gemellus Inferior](/muscle/hip/gemellusinferior/)

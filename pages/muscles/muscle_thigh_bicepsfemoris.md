@@ -70,6 +70,8 @@ gallery:
 
 Positioned as the most lateral muscle in the posterior thigh, the biceps femoris comprises two heads, namely the long head and short head. The fusion point of these two heads creates a shared tendon that can be palpated laterally in the popliteal fossa, located in the posterior region of the knee.
 
+[Back››](/muscle/thigh/posterior/)
+
 - [Biceps Femoris](/muscle/thigh/bicepsfemoris/)
   - [Long Head Of Biceps Femoris](/muscle/thigh/longheadofbicepsfemoris/)
   - [Short Head Of Biceps Femoris](/muscle/thigh/shortheadofbicepsfemoris/)

@@ -70,6 +70,8 @@ gallery:
 
 The semitendinosus is a mostly tendinous muscle located on the medial aspect of the posterior thigh and superficial to the semimembranosus. It originates from the ischial tuberosity of the pelvis and attaches to the medial surface of the tibia. Its actions include knee flexion, extension of the thigh at the hip, and medial rotation of the thigh at the hip joint and the leg at the knee joint.
 
+[Back››](/muscle/thigh/posterior/)
+
 {% include page-image im_id="ThighSemitendinosus" %}
 
 {% include gallery %}

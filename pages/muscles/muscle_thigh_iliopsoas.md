@@ -70,6 +70,8 @@ gallery:
 
 The iliopsoas, a muscle complex that does not contribute to leg extension at the knee joint, is made up of two distinct muscles: the psoas major and the iliacus. These muscles originate in the pelvis, travel beneath the inguinal ligament, and converge in the anterior compartment of the thigh to form a shared tendon.
 
+[Back››](/muscle/thigh/anterior/)
+
 - [Iliopsoas](/muscle/thigh/iliopsoas/)
   - [Iliacus](/muscle/thigh/iliacus/)
   - [Psoas Major](/muscle/thigh/psoasmajor/)
