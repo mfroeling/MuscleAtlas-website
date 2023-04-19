@@ -13,7 +13,7 @@ tags: motion
 
 Leuk dat je interesse hebt om deel te nemen aan de studie! Omdat het voor de studie belangrijk is dat we een goede verdeling hebben van de deelnemers over verschillende leeftijden, gewicht en lengte vragen we je vast deze gegeven in te vullen. Tijdens het onderzoek worden deze exact gemeten. Je telefoon nummer achter laten hoeft niet maar is wel zo makkelijk voor ons.
 
-Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo snel mogelijk contact met je op. Je hier aanmelden is geheel vrijblijvend. Als we binnen jouw leeftijdscategorie al genoeg deelnemers hebben kan het ook zijn dat je helaas niet meer hoeft deel te nemen. 
+Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo snel mogelijk contact met je op. Je hier aanmelden is geheel vrijblijvend. Als we binnen jouw leeftijdscategorie al genoeg deelnemers hebben kan het ook zijn dat je helaas niet meer hoeft deel te nemen.
 
 De voorlopig plannnig voor scandagen is:
 
@@ -27,7 +27,7 @@ De voorlopig plannnig voor scandagen is:
 
 Mocht je op deze dagen niet kunnnen kan je je toch gewoon inschrijven en kunnen we samen kijken naar een ander moment.
 
-<form 
+<form
   name="RegistrationForm"
   method="POST"
   id="contact-form"

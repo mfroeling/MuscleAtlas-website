@@ -69,7 +69,9 @@ gallery:
 Currently the following muscle overviews are available:
 
 {% include list-pages tag="muscle" %}
-<\br>
+
+</br>
+
 {% include page-image im_id="LowerLimb" %}
 
 {% include gallery %}
