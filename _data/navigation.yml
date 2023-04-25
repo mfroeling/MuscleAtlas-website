@@ -27,6 +27,16 @@
   url: /muscle/
   side: left
   dropdown:
+  - title: Upper Limb muscles
+    url: /muscle/upperlimb
+  - title: Shoulder muscles
+    url: /muscle/shoulder
+  - title: Arm muscles
+    url: /muscle/arm
+  - title: Forearm muscles
+    url: /muscle/forearm
+  - title: Lower limb muscles
+    url: /muscle/lowerlimb
   - title: Hip muscles
     url: /muscle/hip
   - title: Thigh muscles
