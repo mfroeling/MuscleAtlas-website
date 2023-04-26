@@ -39,4 +39,4 @@ Leave your message here and we will get in contact as soon as possible.
   <p class="form-row form-submit">
     <button type="submit" class="button">Send</button>
   </p>
-</form
+</form>
