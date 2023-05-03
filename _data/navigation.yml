@@ -7,18 +7,18 @@
   side: left     
   dropdown:
   - title: Muscle Bids
-    url: /projects/muscleBIDS/
+    url: /projects/musclebids/
   - title: The motion study
     url: /projects/motion/
   - title: Muscle Quality Index
-    url: /projects/muscle quality index/
+    url: /projects/mqi/
   
 - title: Resources
   url: /resources/
   side: left     
   dropdown:  
   - title: QMRITools
-    url: /resources/QMRITools/
+    url: /resources/qmritools/
  
 # - title: Data
 #  url: /data/
@@ -28,21 +28,21 @@
   side: left
   dropdown:
   - title: Upper Limb muscles
-    url: /muscle/upperlimb
+    url: /muscle/upperlimb/
   - title: Shoulder muscles
-    url: /muscle/shoulder
+    url: /muscle/shoulder/
   - title: Arm muscles
-    url: /muscle/arm
+    url: /muscle/arm/
   - title: Forearm muscles
-    url: /muscle/forearm
+    url: /muscle/forearm/
   - title: Lower limb muscles
-    url: /muscle/lowerlimb
+    url: /muscle/lowerlimb/
   - title: Hip muscles
-    url: /muscle/hip
+    url: /muscle/hip/
   - title: Thigh muscles
-    url: /muscle/thigh
+    url: /muscle/thigh/
   - title: Leg muscles
-    url: /muscle/leg
+    url: /muscle/leg/
 
 - title: Methods
   url: /methods/

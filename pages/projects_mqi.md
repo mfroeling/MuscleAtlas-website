@@ -1,7 +1,7 @@
 ---
 
 layout: page
-permalink: /projects/muscle quality index/
+permalink: /projects/mqi/
 header: no
 
 title: "Muscle quality index"

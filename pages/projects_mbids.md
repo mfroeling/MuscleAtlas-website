@@ -1,7 +1,7 @@
 ---
 
 layout: page
-permalink: /projects/muscleBIDS/
+permalink: /projects/musclebids/
 header: no
 
 title: "Muscle-BIDS"
