@@ -15,11 +15,11 @@ Leuk dat je interesse hebt om deel te nemen aan de studie! Omdat het voor de stu
 
 Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo snel mogelijk contact met je op. Je hier aanmelden is geheel vrijblijvend. Als we binnen jouw leeftijdscategorie al genoeg deelnemers hebben kan het ook zijn dat je helaas niet meer hoeft deel te nemen.
 
-De voorlopig plannnig voor scandagen is:
+De plannnig voor scandagen is:
 
-- dag1: zondag 30 april 2023
-- dag2: zondag 2 juli 2023
-- dag3: zondag 8 oktober 2023
+- ~~dag1: zondag 30 april 2023~~
+- ~~dag2: zondag 2 juli 2023~~
+- ***dag3: zondag 8 oktober 2023***
 - dag4: zondag 19 november 2023
 - dag5: zondag 21 januari 2024
 - dag6: zondag 27 maart 2024

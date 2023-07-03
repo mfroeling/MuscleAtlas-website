@@ -19,11 +19,11 @@ MRI is een techniek waarmee op een patiëntvriendelijke, niet schadelijke manier
 
 Daarom zijn wij op zoek naar gezonde mensen (niet zwanger) tussen de 16 jaar en 60 jaar die mee willen werken aan [dit wetenschappelijk onderzoek](/motion/onderzoek/). Het onderzoek bestaat uit 1x een MRI-onderzoek van de beenspieren, enkele krachtmetingen van de spieren en het invullen van twee vragenlijsten.
 
-De voorlopig plannnig voor scandagen is:
+De plannnig voor scandagen is:
 
-- dag1: zondag 30 april 2023
-- dag2: zondag 2 juli 2023
-- dag3: zondag 8 oktober 2023
+- ~~dag1: zondag 30 april 2023~~
+- ~~dag2: zondag 2 juli 2023~~
+- ***dag3: zondag 8 oktober 2023***
 - dag4: zondag 19 november 2023
 - dag5: zondag 21 januari 2024
 - dag6: zondag 27 maart 2024

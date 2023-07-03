@@ -37,16 +37,16 @@ Nadat de vragenlijsten ingevuld zijn zal als eerste een MRI onderzoek plaats vin
 
 {% include page-image im_id="pos" %}
 
-Het MRI onderzoek  bestaat uit 3 delen. Eerst worden er enkele snelle opnames gemaakt om de uiteindelijke opnames op in te plannen. Dit inplannen duurt ongeveer 2-3 minuten.. Nadat alles ingesteld is volgt de eerste scan die als doel heeft de spieranatomie in beeld te brengen. Deze opname word gemaakt in 6 delen en stelt ons in staat de individuele spieren in een later stadium te selecteren. Ook is het met deze scan mogelijk om het exacte vet percentage in iedere spier te meten. Vervolgens worden beide benen nogmaals in beeld gebracht, , maar ditmaal met technieken (Diffusie Tensor Imaging en T2-mapping) waarmee we ontstekingen in de spier, de spiermicrostructuur en de spierarchitectuur in kaart brengen.
+Het MRI onderzoek  bestaat uit 3 delen. Eerst worden er enkele snelle opnames gemaakt om de uiteindelijke opnames op in te plannen. Dit inplannen duurt ongeveer 2-3 minuten.. Nadat alles ingesteld is volgt de eerste scan die als doel heeft de spieranatomie in beeld te brengen. Deze opname word gemaakt in 6 delen en stelt ons in staat de individuele spieren in een later stadium te selecteren. Ook is het met deze scan mogelijk om het exacte vet percentage in iedere spier te meten ([water fat imaging](https://www.muscle-atlas.org/methods/waterfat/)). Vervolgens worden beide benen nogmaals in beeld gebracht, maar ditmaal met technieken  waarmee we ontstekingen in de spier, de spiermicrostructuur en de spierarchitectuur in kaart brengen ([Diffusion weigthed maging](https://www.muscle-atlas.org/methods/diffusion/) en [T2-mapping](https://www.muscle-atlas.org/methods/t2mapping/)).
 
 {% include page-image im_id="scan" %}
 
 ### Krachtmeting
 
-Na het MRI onderzoek zal er een afspraak gemaakt worden voor een spierkrachtmeting van het rechter bovenbeen. De krachtmeting bestaat uit twee delen, een isometrische en een isokinetische krachtmeting, en zal ongeveer 30 min duren.
+Na het MRI onderzoek zal er een afspraak gemaakt worden voor een spierkrachtmeting van het rechter bovenbeen. De krachtmeting bestaat uit twee delen, een isometrische en een isokinetische krachtmeting, en zal ongeveer 30 min duren. De krachtmetingen worden uitgevoed in het [kinderbewegingscentrum in het WKZ](https://www.hetwkz.nl/nl/centrum/kinderbewegingscentrum).
 
 {% include page-image im_id="torq" %}
 
-De isometrische krachtmeting heeft als doel de spierkracht te meten zonder dat de spier van lengte veranderd. Hierbij wordt de maximale strek- en buigkracht van de beenspieren gemeten terwijl de knie 90 graden gebogen blijft (de kniehoek verandert dus niet van positie).. In tegenstelling tot de isometrische krachmeting, heeft de isokinetische krachtmeting als doel de spierkracht te meten terwijl het kniegewricht beweegt. Hierbij wordt de maximale spierkracht gemeten terwijl het been met constante snelheid gestrekt en gebogen wordt.
+De isometrische krachtmeting heeft als doel de spierkracht te meten zonder dat de spier van lengte veranderd. Hierbij wordt de maximale strek- en buigkracht van de beenspieren gemeten terwijl de knie 90 graden gebogen blijft (de kniehoek verandert dus niet van positie). In tegenstelling tot de isometrische krachmeting, heeft de isokinetische krachtmeting als doel de spierkracht te meten terwijl het kniegewricht beweegt. Hierbij wordt de maximale spierkracht gemeten terwijl het been met constante snelheid gestrekt en gebogen wordt.
 
 {% include list-pages tag="motion" %}
