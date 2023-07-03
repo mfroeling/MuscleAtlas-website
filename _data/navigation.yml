@@ -67,6 +67,8 @@
     url: /motion/registratie/
   - title: Het onderzoek
     url: /motion/onderzoek/
+  - title: De voortgang
+    url: /motion/voortgang/
 
 - title: About
   url: /about/
