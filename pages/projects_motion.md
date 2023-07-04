@@ -18,6 +18,10 @@ images:
     image_name: 'torque.png'
     image_title: 'Iso-metric and iso-kinetic muscle force measurements'
     image_alt: 'Iso-metric and iso-kinetic muscle force measurements using the biodex system 4' 
+  - image_id: 'prog'
+    image_name: 'progress.png'
+    image_title: 'Inclusion progress of the motion study'
+    image_alt: 'Inclusion progress of the motion study' 
 
 ---
 
@@ -30,5 +34,9 @@ The first two questionnaires are administered to gather information about lifest
 The last part of the study involves measuring muscle strength in the right upper thigh using a Biodex System 4 in collaboration with the [Children's Movement Center](https://www.hetwkz.nl/nl/centrum/kinderbewegingscentrum). The measurement consists of two parts: an isometric measurement to assess muscle strength without changing muscle length, and an iso-kinetic measurement to assess muscle strength while the knee joint moves.
 
 {% include page-image im_id="tor" %}
+
+### Inclusion progress
+
+{% include page-image im_id="prog" %}
 
 {% include list-pages tag="projects" %}
