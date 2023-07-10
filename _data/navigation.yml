@@ -54,7 +54,9 @@
     url: /methods/diffusion/
   - title: T2 mapping
     url: /methods/t2mapping/
-  
+  - title: fiber tractography
+    url: /methods/tractography/
+
 - title: Motion [NL]
   url: /motion/
   side: left
