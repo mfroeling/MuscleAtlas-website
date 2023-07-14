@@ -68,4 +68,6 @@ By establishing a unique muscle and subject-specific fingerprint that links musc
 
 {% include page-image im_id="finger" %}
 
+### Other projects
+
 {% include list-pages tag="projects" %}

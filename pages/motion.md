@@ -29,7 +29,7 @@ De plannnig voor scandagen is:
 - dag6: zondag 27 maart 2024
 - dag7: zondag 26 mei 2024
 
-Mocht je op deze dagen niet kunnnen kan je je toch gewoon inschrijven en kunnen we samen kijken naar een ander moment. 
+Mocht je op deze dagen niet kunnnen kan je je toch gewoon inschrijven en kunnen we samen kijken naar een ander moment.
 Antwoorden op vragen over het onderzoek kun je [hier](/motion/vragen/) vinden.
 
 {% include list-pages tag="motion" %}

@@ -5,7 +5,7 @@ permalink: /projects/motion/
 header: no
 
 title: "The motion study"
-subheadline: 'Quantitative MRI and muscle force data collection.'
+subheadline: 'Inclusion and data overview.'
 
 tags: projects
 
@@ -18,10 +18,6 @@ images:
     image_name: 'torque.png'
     image_title: 'Iso-metric and iso-kinetic muscle force measurements'
     image_alt: 'Iso-metric and iso-kinetic muscle force measurements using the biodex system 4' 
-  - image_id: 'prog'
-    image_name: 'progress.png'
-    image_title: 'Inclusion progress of the motion study'
-    image_alt: 'Inclusion progress of the motion study' 
 
 ---
 
@@ -35,8 +31,6 @@ The last part of the study involves measuring muscle strength in the right upper
 
 {% include page-image im_id="tor" %}
 
-### Inclusion progress
-
-{% include page-image im_id="prog" %}
+### Other projects
 
 {% include list-pages tag="projects" %}

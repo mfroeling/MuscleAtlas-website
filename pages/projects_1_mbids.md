@@ -84,4 +84,6 @@ An example of a folder structure is shown below:
 
 </div>
 
+### Other projects
+
 {% include list-pages tag="projects" %}

@@ -50,10 +50,10 @@
   dropdown:  
   - title: Water fat imaging
     url: /methods/waterfat/
-  - title: Diffusion imaging
-    url: /methods/diffusion/
   - title: T2 mapping
     url: /methods/t2mapping/
+  - title: Diffusion imaging
+    url: /methods/diffusion/
   - title: fiber tractography
     url: /methods/tractography/
 
