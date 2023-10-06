@@ -34,7 +34,7 @@ images:
     image_name: 'progress\\MOTION024_dwi_dti_fa.jpg'
     image_title: 'IVIM corrected whole leg muscle fractional anisotropy obtained from diffusion tensor imaging.'
     image_alt: 'IVIM corrected whole leg muscle fractional anisotropy obtained from diffusion tensor imaging.'
-  - image_id: 'md'
+  - image_id: 'snr0'
     image_name: 'progress\\MOTION024_dwi_dti_snr0.jpg'
     image_title: 'SNR distribution of the unweighted diffusion data.'
     image_alt: 'SNR distribution of the unweighted diffusion data.'
