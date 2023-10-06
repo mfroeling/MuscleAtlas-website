@@ -8,10 +8,12 @@
   dropdown:
   - title: Muscle Bids
     url: /projects/musclebids/
-  - title: The motion study
-    url: /projects/motion/
   - title: Muscle Quality Index
     url: /projects/mqi/
+  - title: The motion study
+    url: /projects/motion/
+  - title: The motion study - results
+    url: /projects/progress/
   
 - title: Resources
   url: /resources/
@@ -56,6 +58,8 @@
     url: /methods/diffusion/
   - title: fiber tractography
     url: /methods/tractography/
+  - title: muscle segmentation
+    url: /methods/segmentation/
 
 - title: Motion [NL]
   url: /motion/

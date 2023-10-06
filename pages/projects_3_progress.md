@@ -9,7 +9,7 @@ subheadline: 'An overview of the inclusion and results'
 
 images:
   - image_id: 'prog'
-    image_name: 'progress.png'
+    image_name: 'prog_dist.png'
     image_title: 'progress of the inclusion of the motion study'
     image_alt: 'progress of the inclusion of the motion study' 
 
@@ -20,6 +20,10 @@ tags: projects
 ### Inclusion progress
 
 {% include page-image im_id="prog" %}
+
+### List of scanned participants
+
+{% include list-pages tag="subjects" %}
 
 ### Other projects
 
