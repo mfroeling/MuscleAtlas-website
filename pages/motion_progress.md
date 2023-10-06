@@ -17,7 +17,7 @@ images:
 
 ---
 
-We hebben inmiddels twee scan dagen erop zitten en zijn druk bezig met het vol plannen van de volgende 4. Op deze pagina zie je een kort overzicht van onze inclussie voortgang en ook wat de verdeling is van de deelnemers tot nu toe.
+We hebben inmiddels twee scan dagen erop zitten en zijn druk bezig met het vol plannen van de volgende 4. Op deze pagina zie je een kort overzicht van onze inclussie voortgang en ook wat de verdeling is van de deelnemers tot nu toe. Voor meer resultaten [kijk hier>>](/projects/progress/)
 
 - ~~dag1: zondag 30 april 2023~~
 - ~~dag2: zondag 2 juli 2023~~
