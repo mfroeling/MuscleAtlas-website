@@ -7,6 +7,12 @@ header: no
 title: "Muscle-BIDS"
 subheadline: 'Standardized and automated data processing.'
 
+images:
+  - image_id: 'flow'
+    image_name: 'flowchart_proc.png'
+    image_title: 'Automated whole leg muscle processing flowchart using muscle BIDS.'
+    image_alt: 'Automated whole leg muscle processing flowchart using muscle BIDS.' 
+
 tags: projects
 
 ---
@@ -16,6 +22,8 @@ tags: projects
 For automated data processing of processing with various tool-boxes data management is important. For this, the muscle MRI community is developing the Muscle BIDS data structure. When data is organized in this way all needed parameters and data sets can automatically be found, which enables automated processing and evaluation of large data sets. Furthermore, each toolbox that is Muscle-BIDS compatible can run its analysis on the same data without the need to restructure the data input. The last advantage is that the output is also standardized which makes the comparison of results and methods more convenient. More about Muscle-Bids can be found [here>>](https://muscle-bids.github.io/).
 
 All data generated within the muscle-atlas projects will be stored in the Muscle-BIDS format. The main processing tool we use ([QMRITools](https://qmritools.com)) for our standardized qMRI muscle studies uses dedicated [Muscle-BIDS compliant scripts](https://www.qmritools.com/bids/) that do not need any user interaction. Muscle-BIDS pipelines developed for the Muscle-Atlas project supports the following steps:
+
+{% include page-image im_id="flow" %}
 
 > - Conversion of DICOM to raw Muscle-BIDS NIfTI
 > - Processing of Muscle-BIDS data
