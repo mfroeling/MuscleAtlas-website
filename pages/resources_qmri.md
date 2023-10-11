@@ -6,6 +6,7 @@ header: no
 
 title: "QMRITools"
 subheadline: 'Processing of muscle quantitative MRI data.'
+teaser: "If you used it, please cite us"
 
 tags: resources
 
@@ -27,24 +28,44 @@ images:
 
 <p align="center">
 <a href="https://www.wolfram.com/language/" target="_blank" style="text-decoration: none; border-bottom: none;">
-<img alt="wolfram language" title="wolfram language" src="/assets/images/wolfram_language.png"></a>
-<a href="https://www.wolfram.com/workbench/" target="_blank" style="text-decoration: none; border-bottom: none;">
-<img alt="wolfram workbench" title="wolfram workbench" src="/assets/images/wolfram_workbench.jpg"></a>
-<a href="https://www.eclipse.org/" target="_blank" style="text-decoration: none; border-bottom: none;">
-<img alt="eclipse" title="eclipse" src="/assets/images/eclipse.png"></a>
+<img alt="wolfram language" title="wolfram language" src="../assets/images/wolfram_language.png"></a>
 <a href="http://www.wolfram.com/mathematica/" target="_blank" style="text-decoration: none; border-bottom: none;">
-<img alt="Wolfram Mathematica" title="Wolfram Mathematica" src="/assets/images/wolfram_mathematica.png"></a>
+<img alt="Wolfram Mathematica" title="Wolfram Mathematica" src="../assets/images/wolfram_mathematica.png"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=WolframResearch.wolfram" target="_blank" style="text-decoration: none; border-bottom: none;">
+<img alt="visual studio code" title="visual studio code" src="../assets/images/visual-studio-code.png"></a>
+<a href="https://www.eclipse.org/" target="_blank" style="text-decoration: none; border-bottom: none;">
+<img alt="eclipse" title="eclipse" src="../assets/images/eclipse.png"></a>
+<a href="https://www.wolfram.com/workbench/" target="_blank" style="text-decoration: none; border-bottom: none;">
+<img alt="wolfram workbench" title="wolfram workbench" src="../assets/images/wolfram_workbench.png"></a>
 <a href="https://community.wolfram.com/groups/-/m/t/1661539" target="_blank" style="text-decoration: none; border-bottom: none;">
-<img alt="Wolfram Community" title="Wolfram Community" src="/assets/images/community.png"></a>
+<img alt="Wolfram Community" title="Wolfram Community" src="../assets/images/community.png"></a>
 </p>
 
-`QMRITools` is a collection of tools and functions for processing quantitative MRI data. The toolbox is developed for the [Wolfram language](https://www.wolfram.com/language/) and maintained using [Wolfram workbench](https://www.wolfram.com/workbench/) for [eclipse](https://www.eclipse.org/) and runs in the latest version of [Wolfram Mathematica](http://www.wolfram.com/mathematica/). The toolbox does not provide a GUI and its primary goal is to allow for fast batch data processing, and facilitate development and prototyping of new functions. The core of the toolbox contains various functions for data manipulation and restructuring. More about QMRITools can be found [here>>](https://QMRITools.com/).
+`QMRITools` is a collection of tools and functions for processing
+quantitative MRI data. The toolbox is developed for the [Wolfram
+language](https://www.wolfram.com/language/) and runs in the latest version of
+[Wolfram Mathematica](http://www.wolfram.com/mathematica/). The toolbox does not provide a GUI and its primary goal is to allow for fast batch data processing, and
+facilitate development and prototyping of new functions. The core of the
+toolbox contains various functions for data manipulation and restructuring.
 
-{% include page-image im_id="over" %}
+{% include page-image im_id="app" %}
 
-The toolbox was developed mostly in the context of quantitative muscle ([Froeling et al. 2012](https://onlinelibrary.wiley.com/doi/10.1002/jmri.23608){:target="_blank"}), nerve and cardiac magnetic resonance imaging. The library of functions grows along with the research it is used for and started as a toolbox to analyze DWI data of muscle. Since then it has grown to include many other features such as cardiac analysis (tagging and T1 mapping), dixon reconstruction, EPG modeling and fitting, j-coupling simulations and more. It currently contains over 450 custom functions (over 30.000 lines of code) complete with more than 750 documentation pages and demonstrations for each toolbox.
+The toolbox was developed mostly in the context of quantitative muscle
+([Froeling et al. 2012](https://onlinelibrary.wiley.com/doi/10.1002/jmri.23608){:target="_blank"}), nerve and cardiac magnetic resonance imaging. The library of functions grows along with the research it is used for and started as a toolbox to analyze DWI data of muscle. Since then it has grown to include many other features such as cardiac analysis
+(tagging and T1 mapping), dixon reconstruction, EPG modeling and fitting, j-coupling
+simulations and more. It currently contains over 450 custom functions (over 30.000 lines of code) complete with more than 750 documentation pages and demonstrations for each toolbox.
 
 {% include page-image im_id="proc" %}
+
+### Awards and media
+
+During the 2023 ISMRM in Toronto QMRITools was awarded received the "Best Open Source Tool Award" from the Quantitative MRI study group.
+
+{% include page-image im_id="award" %}
+
+If you want to learn more about the workings of QMRITools you can watch a live discussion with the
+Wolfram academic outreach team about <a href="https://www.youtube.com/live/wupxxiPJkxU?si=22BV_HSSa5u7Ds3D" target="_blank">QMRITools</a>
+and the role of computational Wolfram technology. A more in depth explanation of <a href="https://www.youtube.com/live/LVUBupORthA?si=UjoNpM2szsrgB7xx" target="_blank">the paclet functionality</a> was presented to the Wolfram R&D Team.
 
 ### Referencing
 
