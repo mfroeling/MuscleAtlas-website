@@ -9,7 +9,7 @@ subheadline: 'Standardized and automated data processing.'
 
 images:
   - image_id: 'flow'
-    image_name: 'flowchart_proc.png'
+    image_name: 'flowchart_proc.gif'
     image_title: 'Automated whole leg muscle processing flowchart using muscle BIDS.'
     image_alt: 'Automated whole leg muscle processing flowchart using muscle BIDS.' 
 

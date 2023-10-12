@@ -13,7 +13,7 @@ tags: methods
 
 images:
   - image_id: 'segment'
-    image_name: 'flowchart_seg.png'
+    image_name: 'flowchart_seg.gif'
     image_title: 'Automated whole leg muscle segmentation using CCN and UNET.'
     image_alt: 'Automated whole leg muscle segmentation using CCN and UNET.' 
   - image_id: 'segmentation'
