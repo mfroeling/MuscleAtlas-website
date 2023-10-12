@@ -34,7 +34,7 @@ images:
 <a href="https://marketplace.visualstudio.com/items?itemName=WolframResearch.wolfram" target="_blank" style="text-decoration: none; border-bottom: none;">
 <img alt="visual studio code" title="visual studio code" src="/assets/images/visual-studio-code.png"></a>
 <a href="https://www.eclipse.org/" target="_blank" style="text-decoration: none; border-bottom: none;">
-<img alt="eclipse" title="eclipse" src="../assets/images/eclipse.png"></a>
+<img alt="eclipse" title="eclipse" src="/assets/images/eclipse.png"></a>
 <a href="https://www.wolfram.com/workbench/" target="_blank" style="text-decoration: none; border-bottom: none;">
 <img alt="wolfram workbench" title="wolfram workbench" src="/assets/images/wolfram_workbench.png"></a>
 <a href="https://community.wolfram.com/groups/-/m/t/1661539" target="_blank" style="text-decoration: none; border-bottom: none;">
