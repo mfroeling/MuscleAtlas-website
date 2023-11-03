@@ -19,12 +19,9 @@ images:
 
 We hebben inmiddels twee scan dagen erop zitten en zijn druk bezig met het vol plannen van de volgende 4. Op deze pagina zie je een kort overzicht van onze inclussie voortgang en ook wat de verdeling is van de deelnemers tot nu toe. Voor meer resultaten [kijk hier>>](/projects/progress/)
 
-- ~~dag1: zondag 30 april 2023~~
-- ~~dag2: zondag 2 juli 2023~~
-- ***dag3: zondag 8 oktober 2023***
-- dag4: zondag 19 november 2023
+- ***dag4: zondag 19 november 2023***
 - dag5: zondag 21 januari 2024
-- dag6: zondag 27 maart 2024
+- dag6: zondag 17 maart 2024
 - dag7: zondag 26 mei 2024
 
 {% include page-image im_id="prog" %}
