@@ -35,7 +35,7 @@ All data generated within the muscle-atlas projects will be stored in the Muscle
 
 ## Data structure
 
-To prevent ambiguity most MRI acquisitions are stored in predefined folders. Muscle-BIDS-compliant software will look in these folders for their needed raw source data. The following folders have been defined in Muscle-BIDS. QMRITools uses the following subfolders to store data in the Muscle-BIDS dataset. More about data structures can be found [here>>](https://www.qmritools.com/bids/files_folders/).
+To prevent ambiguity most MRI acquisitions are stored in predefined folders. Muscle-BIDS-compliant software will look in these folders for their needed raw source data. The following folders have been defined in Muscle-BIDS. QMRITools uses the following subfolders to store data in the Muscle-BIDS dataset. More about data structures can be found [here>>](https://www.qmritools.com/bids/files_folders/). Within a data structure standardized entities and suffixes are used to identify which files contain what, more information about file naming can be found [here>>](https://www.qmritools.com/bids/ents_suffs/).
 
 - `anat`: Structural imaging for anatomical or diagnostic reference (e.g T1 or T2).
 - `dwi`: Diffusion-weighted data (e.g. DTI or IVIM).
