@@ -21,12 +21,9 @@ Daarom zijn wij op zoek naar gezonde mensen (niet zwanger) tussen de 16 jaar en 
 
 De plannnig voor scandagen is:
 
-- ~~dag1: zondag 30 april 2023~~
-- ~~dag2: zondag 2 juli 2023~~
-- ***dag3: zondag 8 oktober 2023***
-- dag4: zondag 19 november 2023
+- ***dag4: zondag 19 november 2023***
 - dag5: zondag 21 januari 2024
-- dag6: zondag 27 maart 2024
+- dag6: zondag 17 maart 2024
 - dag7: zondag 26 mei 2024
 
 Mocht je op deze dagen niet kunnnen kan je je toch gewoon inschrijven en kunnen we samen kijken naar een ander moment.
