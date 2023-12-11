@@ -16,11 +16,23 @@ images:
     image_name: 'progress\\MOTION362_megre_dix_fatfr.jpg'
     image_title: 'The fat fraction of the lower extremity obtained from the dixon reconstruction for muscle water fat quantification.'
     image_alt: 'The fat fraction of the lower extremity obtained from the dixon reconstruction for muscle water fat quantification.'
-  - image_id: 't2star'
-    image_name: 'progress\\MOTION362_megre_dix_t2star.jpg'
-    image_title: 'The T2 star relaxation time of the lower extremity obtained from the dixon reconstruction for muscle water fat quantification.'
-    image_alt: 'The T2 star relaxation time of the lower extremity obtained from the dixon reconstruction for muscle water fat quantification.'
+  - image_id: 'r2star'
+    image_name: 'progress\\MOTION362_megre_dix_r2star.jpg'
+    image_title: 'The R2 star relaxation time of the lower extremity obtained from the dixon reconstruction for muscle water fat quantification.'
+    image_alt: 'The R2 star relaxation time of the lower extremity obtained from the dixon reconstruction for muscle water fat quantification.'
+  - image_id: 'snr'
+    image_name: 'progress\\MOTION362_megre_dix_snr.jpg'
+    image_title: 'The SNR distribution of the dixon data.'
+    image_alt: 'The SNR distribution of the dixon data.'
+  - image_id: 'dbond'
+    image_name: 'progress\\MOTION362_megre_dix_dbond.jpg'
+    image_title: 'Number of double bonds in subcutanious fat.'
+    image_alt: 'Number of double bonds in subcutanious fat.'
 
+  - image_id: 't2wat'
+    image_name: 'progress\\MOTION362_mese_t2_wat.jpg'
+    image_title: 'The water part of the acquired multi-echo spin echo data.'
+    image_alt: 'The water part of the acquired multi-echo spin echo data.'
   - image_id: 't2w'
     image_name: 'progress\\MOTION362_mese_t2_t2w.jpg'
     image_title: 'The water only T2 relaxation time of the lower extremity obtained from multi echo spin echo t2 mapping with EPG based reconstruction.'
@@ -81,12 +93,21 @@ Dixon based water fat quantification, for information [look here>>](/methods/wat
 - Fat fraction
 {% include page-image im_id="fatfr" %}
 
-- T2 star relaxation time
-{% include page-image im_id="t2star" %}
+- R2 star relaxation
+{% include page-image im_id="r2star" %}
+
+- SNR distribution
+{% include page-image im_id="snr" %}
+
+- Number of double bonds in subcutanious fat
+{% include page-image im_id="dbond" %}
 
 ### Water only T2 mapping
 
 Multi echo spin echo T2 relaxation time mapping with EPG reconstruction, for information [look here>>](/methods/t2mapping/).
+
+- Water only signal
+{% include page-image im_id="t2wat" %}
 
 - Water only T2 relaxation time
 {% include page-image im_id="t2w" %}
