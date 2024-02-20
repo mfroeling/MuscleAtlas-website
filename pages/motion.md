@@ -21,8 +21,13 @@ Daarom zijn wij op zoek naar gezonde mensen (niet zwanger) tussen de 16 jaar en 
 
 De plannnig voor scandagen is:
 
-- ***dag6: zondag 17 maart 2024***
-- dag7: zondag 26 mei 2024
+- ***dag 6: zondag 17 maart 2024***
+- dag 7: zondag 26 mei 2024
+- dag 8: zondag 14 juli 2024
+- dag 9: zondag 1 september 204
+- dag 10: zondag 20 oktober 2024
+- dag 11: zondag 15 december 2024
+- dag 12: zondag 12 januari 2025
 
 Mocht je op deze dagen niet kunnnen kan je je toch gewoon inschrijven en kunnen we samen kijken naar een ander moment.
 Antwoorden op vragen over het onderzoek kun je [hier](/motion/vragen/) vinden.
