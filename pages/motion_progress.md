@@ -19,8 +19,7 @@ images:
 
 We hebben inmiddels twee scan dagen erop zitten en zijn druk bezig met het vol plannen van de volgende 4. Op deze pagina zie je een kort overzicht van onze inclussie voortgang en ook wat de verdeling is van de deelnemers tot nu toe. Voor meer resultaten [kijk hier>>](/projects/progress/)
 
-- ***dag 6: zondag 17 maart 2024***
-- dag 7: zondag 26 mei 2024
+- ***dag 7: zondag 26 mei 2024***
 - dag 8: zondag 14 juli 2024
 - dag 9: zondag 1 september 204
 - dag 10: zondag 20 oktober 2024
