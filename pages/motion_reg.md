@@ -17,12 +17,7 @@ Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo
 
 De plannnig voor scandagen is:
 
-- ***dag 7: zondag 26 mei 2024***
-- dag 8: zondag 14 juli 2024
-- dag 9: zondag 1 september 204
-- dag 10: zondag 20 oktober 2024
-- dag 11: zondag 15 december 2024
-- dag 12: zondag 12 januari 2025
+{% include scan_dates.txt %}
 
 Mocht je op deze dagen niet kunnnen kan je je toch gewoon inschrijven en kunnen we samen kijken naar een ander moment.
 

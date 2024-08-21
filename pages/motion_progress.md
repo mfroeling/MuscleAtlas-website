@@ -17,14 +17,9 @@ images:
 
 ---
 
-We hebben inmiddels twee scan dagen erop zitten en zijn druk bezig met het vol plannen van de volgende 4. Op deze pagina zie je een kort overzicht van onze inclussie voortgang en ook wat de verdeling is van de deelnemers tot nu toe. Voor meer resultaten [kijk hier>>](/projects/progress/)
+We hebben inmiddels meerdere scan dagen erop zitten en zijn druk bezig met het vol plannen van de dagen die nog gaan komen. Op deze pagina zie je een kort overzicht van onze inclussie voortgang en ook wat de verdeling is van de deelnemers tot nu toe. Voor meer resultaten [kijk hier>>](/projects/progress/)
 
-- ***dag 7: zondag 26 mei 2024***
-- dag 8: zondag 14 juli 2024
-- dag 9: zondag 1 september 204
-- dag 10: zondag 20 oktober 2024
-- dag 11: zondag 15 december 2024
-- dag 12: zondag 12 januari 2025
+{% include scan_dates.txt %}
 
 {% include page-image im_id="prog" %}
 
