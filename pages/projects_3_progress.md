@@ -23,7 +23,7 @@ tags: projects
 
 ### List of scanned participants
 
-{% include list-pages tag="subjects" %}
+{% include list-progress tag="subjects" %}
 
 ### Other projects
 

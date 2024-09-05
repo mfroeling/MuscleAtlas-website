@@ -1,0 +1,41 @@
+{% comment %}
+*   
+*   Example: {% include list-pages tag='tools' %}
+*   
+{% endcomment %}
+
+{% assign tagin = include.tag %}
+
+
+<div class="grid-container">
+{% for page in site.pages %}
+{% for tag in page.tags %}
+{% if tag == tagin %}
+    <div class="grid-item">
+        <a href="{{ site.url }}{{ page.url }}">
+            <img src="{{ site.urlimg }}{{ page.icon }}" alt="{{ page.title }}">
+            <p>{{ page.title }}</p>
+        </a>
+    </div>
+{% endif %}
+{% endfor %}
+{% endfor %}
+</div>
+
+
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 10px;
+}
+
+.grid-item {
+    text-align: center;
+}
+
+.grid-item img {
+    max-width: 100%;
+    height: auto;
+}
+</style>
