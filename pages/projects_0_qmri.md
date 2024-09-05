@@ -48,7 +48,7 @@ tags: projects
 
 `QMRITools` is a comprehensive collection of tools and functions designed for processing quantitative MRI data. Developed specifically for the [Wolfram language](https://www.wolfram.com/language/){:target="_blank"}, QMRITools operates within the latest version of [Wolfram Mathematica](http://www.wolfram.com/mathematica/){:target="_blank"}. While it does not offer a graphical user interface (GUI), its primary objective is to enable rapid batch data processing and to facilitate the development and prototyping of new functions. At its core, the toolbox includes a variety of functions for data manipulation and restructuring.
 
-For more information about qmritools [look here](www.qmritools.com){:target="_blank"}
+For more information about qmritools [look here](https://www.qmritools.com/){:target="_blank"}
 
 {% include page-image im_id="app" %}
 
