@@ -154,7 +154,7 @@ Whole leg muscle fiber tractography using DTI, for information [look here>>](/me
 
 ### List of scanned participants
 
-{% include list-progress.txt tag="subjects" %}
+{% include list-progress tag="subjects" %}
 
 ### Other projects
 
