@@ -1,7 +1,7 @@
 ---
 
 layout: page
-permalink: /resources/qmritools/
+permalink: /projects/qmritools/
 header: no
 
 title: "QMRITools"
@@ -28,6 +28,7 @@ images:
     image_title: 'Best Open Source Tool Award for quantitative MRI'
     image_alt: 'Best Open Source Tool Award for quantitative MRI' 
 
+tags: projects
 
 ---
 

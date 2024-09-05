@@ -6,6 +6,8 @@
   url: /projects/
   side: left     
   dropdown:
+  - title: QMRITools
+    url: /projects/qmritools/
   - title: Muscle Bids
     url: /projects/musclebids/
   - title: Muscle Quality Index
@@ -15,13 +17,6 @@
   - title: The motion study - results
     url: /projects/progress/
   
-- title: Resources
-  url: /resources/
-  side: left     
-  dropdown:  
-  - title: QMRITools
-    url: /resources/qmritools/
- 
 # - title: Data
 #  url: /data/
 #  side: left

@@ -1,6 +1,5 @@
 
-- ***dag 9: zondag 1 september 2024***
-- dag 10: zondag 15 december 2024
+- ***dag 10: zondag 15 december 2024***
 - dag 11: zondag 12 januari 2025
 - dag 12: zondag 16 maart 2025
 - dag 13: zondag 22 juni 2025
