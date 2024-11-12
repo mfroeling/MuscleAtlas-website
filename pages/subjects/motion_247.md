@@ -73,7 +73,7 @@ images:
     image_title: 'Muscle fiber tract density map based on whole leg DTI based fiber tractography.'
     image_alt: 'Muscle fiber tract density map based on whole leg DTI based fiber tractography.'
   - image_id: 'tract'
-    image_name: 'progress/MOTION247_dwi_dti_trk_tracts.jpg'
+    image_name: 'progress/MOTION247_dwi_dti_trk_vol.jpg'
     image_title: 'Whole leg 3D fiber tractography of all muscles segmented using a CNN UNET.'
     image_alt: 'Whole leg 3D fiber tractography of all muscles segmented using a CNN UNET.'
 

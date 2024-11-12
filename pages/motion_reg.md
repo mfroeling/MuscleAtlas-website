@@ -7,6 +7,12 @@ header: no
 title: "Registratie"
 subheadline: 'Ja ik doe mee!!'
 
+images:
+  - image_id: 'tab'
+    image_name: 'table.png'
+    image_title: 'inclusie tabel: wij zoeken nog'
+    image_alt: 'inclusie tabel: wij zoeken nog' 
+
 tags: motion
 
 ---
@@ -14,6 +20,10 @@ tags: motion
 Leuk dat je interesse hebt om deel te nemen aan de studie! Omdat het voor de studie belangrijk is dat we een goede verdeling hebben van de deelnemers over verschillende leeftijden, gewicht en lengte vragen we je vast deze gegeven in te vullen. Tijdens het onderzoek worden deze exact gemeten. Je telefoon nummer achter laten hoeft niet maar is wel zo makkelijk voor ons.
 
 Als je je gegevens achter laat krijg je een email ter bevestiging en nemen we zo snel mogelijk contact met je op. Je hier aanmelden is geheel vrijblijvend. Als we binnen jouw leeftijdscategorie al genoeg deelnemers hebben kan het ook zijn dat je helaas niet meer hoeft deel te nemen.
+
+Wij zoeken nog de volgende deelnemers:
+
+{% include page-image im_id="tab" %}
 
 De plannnig voor scandagen is:
 
