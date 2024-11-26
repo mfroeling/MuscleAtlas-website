@@ -59,11 +59,19 @@ images:
     image_name: 'progress/MOTION926_seg_auto_megre_vol.jpg'
     image_title: '3D render of automated muscle segmentation labels generated using a CNN UNET.'
     image_alt: '3D render of automated muscle segmentation labels generated using a CNN UNET.'
+  - image_id: 'bone'
+    image_name: 'progress/MOTION926_seg_seg_bones.jpg'
+    image_title: '3D render of automated bone segmentation and force lines.'
+    image_alt: '3D render of automated bone segmentation and force lines.'
 
   - image_id: 'leng'
     image_name: 'progress/MOTION926_dwi_dti_trk_leng.jpg'
     image_title: 'Muscle fiber tract length map based on whole leg DTI based fiber tractography.'
     image_alt: 'Muscle fiber tract length map based on whole leg DTI based fiber tractography.'
+  - image_id: 'curv'
+    image_name: 'progress/MOTION926_dwi_dti_trk_curv.jpg'
+    image_title: 'Muscle fiber tract curvature map based on whole leg DTI based fiber tractography.'
+    image_alt: 'Muscle fiber tract curvature map based on whole leg DTI based fiber tractography.'
   - image_id: 'ang'
     image_name: 'progress/MOTION926_dwi_dti_trk_ang.jpg'
     image_title: 'Muscle fiber tract angle map based on whole leg DTI based fiber tractography.'
@@ -130,15 +138,21 @@ Diffusion weighted imaging with IVIM and DTI fitting to obtain muscle microstruc
 
 Convolution neural network based (UNET) fiber automated muscle segmentation, for information [look here>>](/methods/segmentation/).
 
+- 3D volume render of automated muscle segmentation.
+{% include page-image im_id="seg3D" %}
+
 - Automated muscle and bone segmentation.
 {% include page-image im_id="seg2D" %}
 
-- 3D volume render of automated muscle segmentation.
-{% include page-image im_id="seg3D" %}
+- 3D volume render of automated bone segmentation.
+{% include page-image im_id="bone" %}
 
 ### Muscle fiber tractography
 
 Whole leg muscle fiber tractography using DTI, for information [look here>>](/methods/tractography/).
+
+- 3D volume renders of muscle fiber tractography
+{% include page-image im_id="tract" %}
 
 - Muscle fiber length map
 {% include page-image im_id="leng" %}
@@ -149,8 +163,8 @@ Whole leg muscle fiber tractography using DTI, for information [look here>>](/me
 - Muscle fiber density map
 {% include page-image im_id="dens" %}
 
-- 3D volume renders of muscle fiber tractography
-{% include page-image im_id="tract" %}
+- Muscle fiber curvature map
+{% include page-image im_id="curv" %}
 
 ### List of scanned participants
 
