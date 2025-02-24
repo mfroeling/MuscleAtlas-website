@@ -27,6 +27,10 @@ images:
 
 ---
 
+
+If you want to read more about our muscle segmentation framework you can look [here](https://www.qmritools.com/seg/segmentation). We segment data from lower extremities based on the following flow chart. The framework is part of the [QMRITools](https://www.qmritools.com/) paclet for Mathematica. If you want to learn more about how to use the tools you can [look here.](https://www.qmritools.com/seg/methods)
+
+
 {% include page-image im_id="segment" %}
 
 {% include page-image im_id="slices" %}
