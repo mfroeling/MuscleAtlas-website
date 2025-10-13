@@ -1,5 +1,4 @@
-- ***dag 16: zondag 12 oktober 2025***
-- dag 17: zondag 30 november 2025
+- ***dag 17: zondag 30 november 2025***
 - dag 18: zondag 19 april 2026
 - dag 19: zondag 28 juni 2026
 - dag 20: zondag 13 september 2026
