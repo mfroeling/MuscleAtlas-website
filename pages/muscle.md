@@ -11,9 +11,13 @@ header: no
 
 ---
 
-### Muscles of the limbs
+### Muscles of the body
 
 {% include list-pages tag="muscle" %}
+
+### Muscles of the torso and head
+
+{% include list-pages tag="muscle_tor" %}
 
 ### Muscles of the lower limb
 

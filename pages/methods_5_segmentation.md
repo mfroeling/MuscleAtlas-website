@@ -36,3 +36,5 @@ If you want to read more about our muscle segmentation framework you can look [h
 {% include page-image im_id="slices" %}
 
 {% include page-image im_id="segmentation" %}
+
+We gratefully acknowledge the support of NVIDIA with the donation of the GPU used for this work.

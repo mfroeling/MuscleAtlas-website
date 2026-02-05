@@ -24,6 +24,8 @@
   url: /muscle/
   side: left
   dropdown:
+  - title: Head muscles
+    url: /muscle/head/
   - title: Upper Limb muscles
     url: /muscle/upperlimb/
   - title: Shoulder muscles
@@ -40,7 +42,15 @@
     url: /muscle/thigh/
   - title: Leg muscles
     url: /muscle/leg/
-
+  - title: Torso muscles
+    url: /muscle/torso/
+  - title: Neck muscles
+    url: /muscle/neck/
+  - title: Back muscles
+    url: /muscle/back/
+  - title: Abdomen muscles
+    url: /muscle/abdomen/
+    
 - title: Methods
   url: /methods/
   side: left     
