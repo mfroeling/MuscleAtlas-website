@@ -72,8 +72,8 @@ gallery:
 
 - [Minor Deep Intrinsic](/muscle/back/minordeepintrinsic/)
   - [Interspinalis](/muscle/back/interspinalis/)
-  - [Set Of Levatores Costarum](/muscle/back/levatorescostarum/)
-  - [Set Of Levatores Costarum](/muscle/back/levatorescostarum/)
+  - [Intertransversarii](/muscle/back/intertransversarii/)
+  - [Levatores Costarum](/muscle/back/levatorescostarum/)
 
 {% include page-image im_id="minordeepintrinsic" %}
 

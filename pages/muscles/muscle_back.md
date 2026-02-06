@@ -89,13 +89,14 @@ gallery:
     - [Longissimus](/muscle/back/longissimus/)
     - [Spinalis](/muscle/back/spinalis/)
   - [Deep Intrinsic Compartment](/muscle/back/deepintrinsic/)
-    - [Semispinalis](/muscle/back/semispinalis/)
-    - [Multifidus](/muscle/back/multifidus/)
-    - [Rotator](/muscle/back/rotator/)
+    - [Transversospinales Group](/muscle/back/transversospinalesgroup/)
+      - [Semispinalis](/muscle/back/semispinalis/)
+      - [Multifidus](/muscle/back/multifidus/)
+      - [Rotator](/muscle/back/rotator/)
     - [Minor Deep Intrinsic](/muscle/back/minordeepintrinsic/)
       - [Interspinalis](/muscle/back/interspinalis/)
-      - [Set Of Levatores Costarum](/muscle/back/levatorescostarum/)
-      - [Set Of Levatores Costarum](/muscle/back/levatorescostarum/)
+      - [Intertransversarii](/muscle/back/intertransversarii/)
+      - [Levatores Costarum](/muscle/back/levatorescostarum/)
 
 {% include page-image im_id="back" %}
 
