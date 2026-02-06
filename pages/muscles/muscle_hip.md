@@ -86,6 +86,12 @@ The hip is part of the lower limb and situated between the abdomen and the thigh
       - [Gemellus Superior](/muscle/hip/gemellussuperior/)
       - [Gemellus Inferior](/muscle/hip/gemellusinferior/)
     - [Quadratus Femoris](/muscle/hip/quadratusfemoris/)
+  - [Pelvis Compartment](/muscle/hip/pelvis/)
+    - [Levator Ani](/muscle/hip/levatorani/)
+      - [Puborectalis](/muscle/hip/puborectalis/)
+      - [Pubococcygeus](/muscle/hip/pubococcygeus/)
+      - [Iliococcygeus](/muscle/hip/iliococcygeus/)
+    - [Coccygeus](/muscle/hip/coccygeus/)
 
 {% include page-image im_id="hip" %}
 

@@ -85,6 +85,7 @@ The lower limb compises the hip, thigh, knee, leg, ankle and foot. Here we list 
   - [Hip](/muscle/hip/)
     - [Superficial Compartment](/muscle/hip/superficial/)
     - [Deep Compartment](/muscle/hip/deep/)
+    - [Pelvis Compartment](/muscle/hip/pelvis/)
 
 {% include page-image im_id="lowerlimb" %}
 
