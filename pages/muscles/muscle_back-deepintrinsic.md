@@ -74,6 +74,10 @@ gallery:
   - [Semispinalis](/muscle/back/semispinalis/)
   - [Multifidus](/muscle/back/multifidus/)
   - [Rotator](/muscle/back/rotator/)
+  - [Minor Deep Intrinsic](/muscle/back/minordeepintrinsic/)
+    - [Interspinalis](/muscle/back/interspinalis/)
+    - [Set Of Levatores Costarum](/muscle/back/levatorescostarum/)
+    - [Set Of Levatores Costarum](/muscle/back/levatorescostarum/)
 
 {% include page-image im_id="backdeepintrinsic" %}
 

@@ -73,7 +73,7 @@ gallery:
 - [Erector Spinae Compartment](/muscle/back/erectorspinae/)
   - [Iliocostalis](/muscle/back/iliocostalis/)
   - [Longissimus](/muscle/back/longissimus/)
-  - [Scapularis](/muscle/back/scapularis/)
+  - [Spinalis](/muscle/back/spinalis/)
 
 {% include page-image im_id="backerectorspinae" %}
 

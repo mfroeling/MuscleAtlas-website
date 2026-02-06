@@ -87,11 +87,15 @@ gallery:
   - [Erector Spinae Compartment](/muscle/back/erectorspinae/)
     - [Iliocostalis](/muscle/back/iliocostalis/)
     - [Longissimus](/muscle/back/longissimus/)
-    - [Scapularis](/muscle/back/scapularis/)
+    - [Spinalis](/muscle/back/spinalis/)
   - [Deep Intrinsic Compartment](/muscle/back/deepintrinsic/)
     - [Semispinalis](/muscle/back/semispinalis/)
     - [Multifidus](/muscle/back/multifidus/)
     - [Rotator](/muscle/back/rotator/)
+    - [Minor Deep Intrinsic](/muscle/back/minordeepintrinsic/)
+      - [Interspinalis](/muscle/back/interspinalis/)
+      - [Set Of Levatores Costarum](/muscle/back/levatorescostarum/)
+      - [Set Of Levatores Costarum](/muscle/back/levatorescostarum/)
 
 {% include page-image im_id="back" %}
 

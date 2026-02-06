@@ -82,7 +82,7 @@ gallery:
     - [Deltoid](/muscle/shoulder/deltoid/)
       - [Clavicular Part Of Deltoid](/muscle/shoulder/claviculardeltoid/)
       - [Acromial Part Of Deltoid](/muscle/shoulder/acromialdeltoid/)
-      - [Scapular Part Of Deltoid](/muscle/shoulder/scapulardeltoid/)
+      - [Scapular Part Of Deltoid](/muscle/shoulder/scapularpartdeltoid/)
     - [Rotator Cuff](/muscle/shoulder/rotatorcuff/)
       - [Supraspinatus](/muscle/shoulder/supraspinatus/)
       - [Infraspinatus](/muscle/shoulder/infraspinatus/)

@@ -73,7 +73,7 @@ gallery:
 - [Deltoid](/muscle/shoulder/deltoid/)
   - [Clavicular Part Of Deltoid](/muscle/shoulder/claviculardeltoid/)
   - [Acromial Part Of Deltoid](/muscle/shoulder/acromialdeltoid/)
-  - [Scapular Part Of Deltoid](/muscle/shoulder/scapulardeltoid/)
+  - [Scapular Part Of Deltoid](/muscle/shoulder/scapularpartdeltoid/)
 
 {% include page-image im_id="deltoid" %}
 
