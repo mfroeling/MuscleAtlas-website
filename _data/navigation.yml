@@ -1,0 +1,93 @@
+- title: Home
+  url: /
+  side: left
+
+- title: Projects
+  url: /projects/
+  side: left     
+  dropdown:
+  - title: QMRITools
+    url: /projects/qmritools/
+  - title: Muscle Bids
+    url: /projects/musclebids/
+  - title: Muscle Quality Index
+    url: /projects/mqi/
+  - title: The motion study
+    url: /projects/motion/
+  - title: The motion study - results
+    url: /projects/progress/
+  
+# - title: Data
+#  url: /data/
+#  side: left
+- title: Muscles
+  url: /muscle/
+  side: left
+  dropdown:
+  - title: Head muscles
+    url: /muscle/head/
+  - title: Upper Limb muscles
+    url: /muscle/upperlimb/
+  - title: Shoulder muscles
+    url: /muscle/shoulder/
+  - title: Arm muscles
+    url: /muscle/arm/
+  - title: Forearm muscles
+    url: /muscle/forearm/
+  - title: Lower limb muscles
+    url: /muscle/lowerlimb/
+  - title: Hip muscles
+    url: /muscle/hip/
+  - title: Thigh muscles
+    url: /muscle/thigh/
+  - title: Leg muscles
+    url: /muscle/leg/
+  - title: Torso muscles
+    url: /muscle/torso/
+  - title: Neck muscles
+    url: /muscle/neck/
+  - title: Back muscles
+    url: /muscle/back/
+  - title: Abdomen muscles
+    url: /muscle/abdomen/
+    
+- title: Methods
+  url: /methods/
+  side: left     
+  dropdown:  
+  - title: Water fat imaging
+    url: /methods/waterfat/
+  - title: T2 mapping
+    url: /methods/t2mapping/
+  - title: Diffusion imaging
+    url: /methods/diffusion/
+  - title: fiber tractography
+    url: /methods/tractography/
+  - title: muscle segmentation
+    url: /methods/segmentation/
+
+- title: Motion [NL]
+  url: /motion/
+  side: left
+  dropdown:
+  - title: De motion studie
+    url: /motion/
+  - title: Vragen
+    url: /motion/vragen/
+  - title: Registratie
+    url: /motion/registratie/
+  - title: Het onderzoek
+    url: /motion/onderzoek/
+  - title: De voortgang
+    url: /motion/voortgang/
+
+- title: About
+  url: /about/
+  side: left
+  dropdown:
+  - title: Muscle Atlas
+    url: /about/
+
+- title: Contact
+  url: /contact/
+  side: left

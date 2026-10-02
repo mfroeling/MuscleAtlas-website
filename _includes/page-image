@@ -1,0 +1,26 @@
+{% comment %}
+*   
+*   Example: {% include page-image im_id=''%}
+*   
+{% endcomment %}
+
+{% assign id = include.im_id %}
+{% assign img = page.images | where: "image_id", id %}
+
+<div>
+{% for item in img %}
+	<p align="center">
+	{% assign ext = item.image_name | split: '.' | last | downcase %}
+	{% if ext == 'gif' %}
+	{% assign base = item.image_name | replace: '.gif', '' %}
+	<video autoplay loop muted playsinline width="90%" {% if item.image_title %}title = "{{ item.image_title }}"{% endif %} {% if item.image_alt %}aria-label = "{{ item.image_alt }}"{% endif %}>
+		<source src="{{ site.urlimg }}{{ base }}.webm" type="video/webm">
+		<source src="{{ site.urlimg }}{{ base }}.mp4" type="video/mp4">
+		<img src = "{{ site.urlimg }}{{ item.image_name }}" {% if item.image_alt %}alt = "{{ item.image_alt }}"{% endif %} width="90%"/>
+	</video>
+	{% else %}
+	<img src = "{{ site.urlimg }}{{ item.image_name }}" {% if item.image_title %}title = "{{ item.image_title }}"{% endif %} {% if item.image_alt %}alt = "{{ item.image_alt }}"{% endif %} width="90%"/>
+	{% endif %}
+	</p>
+{% endfor %}
+</div>
