@@ -19,7 +19,17 @@
 		<img src = "{{ site.urlimg }}{{ item.image_name }}" {% if item.image_alt %}alt = "{{ item.image_alt }}"{% endif %} width="90%"/>
 	</video>
 	{% else %}
-	<img src = "{{ site.urlimg }}{{ item.image_name }}" {% if item.image_title %}title = "{{ item.image_title }}"{% endif %} {% if item.image_alt %}alt = "{{ item.image_alt }}"{% endif %} width="90%"/>
+	{% assign webp = item.image_name | replace: '.png', '.webp' | replace: '.jpg', '.webp' %}
+	{% capture webp_url %}{{ site.urlimg }}{{ webp }}{% endcapture %}
+	{% assign has_webp = site.static_files | where: "path", webp_url | first %}
+	{% if has_webp and webp != item.image_name %}
+	<picture>
+		<source srcset="{{ webp_url | replace: ' ', '%20' }}" type="image/webp">
+		<img src = "{{ site.urlimg }}{{ item.image_name }}" {% if item.image_title %}title = "{{ item.image_title }}"{% endif %} {% if item.image_alt %}alt = "{{ item.image_alt }}"{% endif %} width="90%" loading="lazy"/>
+	</picture>
+	{% else %}
+	<img src = "{{ site.urlimg }}{{ item.image_name }}" {% if item.image_title %}title = "{{ item.image_title }}"{% endif %} {% if item.image_alt %}alt = "{{ item.image_alt }}"{% endif %} width="90%" loading="lazy"/>
+	{% endif %}
 	{% endif %}
 	</p>
 {% endfor %}
